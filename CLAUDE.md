@@ -124,9 +124,11 @@ Sounds that don't exist in Vietnamese or are frequently mispronounced:
 Update this section after completing each phase or significant milestone.
 
 ```
-[Date] — Phase 0 complete. Repo live at: <url>
-[Date] — Phase 1 complete. 6 vowel posts published.
-[Date] — ...
+[2026-05-19] — Phase 0 complete. Site config updated, sample content removed, single author created.
+[2026-05-19] — Phase 1 complete. 6 vowel posts published (nguyen-am-*).
+[2026-05-25] — Phase 2 complete. 7 consonant posts published (phu-am-*).
+[2026-06-01] — Phase 3 complete. 5 stress & connected speech posts published (trong-am-*, noi-lien-am, am-giam-*, ngu-dieu-*).
+[2026-06-05] — Phase 4 complete. "Start Here" page at /start-here, "Bắt Đầu" added to main nav, Ngữ Điệu category separated. Total: 18 posts.
 ```
 
 ---

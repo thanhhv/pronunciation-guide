@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "name": "Bắt Đầu",
+      "url": "/start-here"
+    },
+    {
       "name": "About",
       "url": "/about"
     },
