@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "Hướng Dẫn Phát Âm Tiếng Anh",
+    "base_url": "https://pronunciation-guide.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Phát Âm Chuẩn"
+  },
+
+  "settings": {
+    "pagination": 5
+  },
+
+  "metadata": {
+    "meta_author": "Pronunciation Guide",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Hướng dẫn phát âm tiếng Anh chuẩn cho người Việt — từ nguyên âm, phụ âm đến trọng âm và ngữ điệu."
+  },
+
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": ""
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2026 Pronunciation Guide"
+  },
+
+  "contactinfo": {
+    "address": "",
+    "email": "",
+    "phone": ""
+  }
+}
