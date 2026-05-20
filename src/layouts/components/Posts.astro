@@ -28,11 +28,11 @@ const { className, posts, fluid } = Astro.props;
             class="rounded-lg block hover:text-primary overflow-hidden group"
           >
             <Image
-              class="group-hover:scale-[1.03] transition duration-300 w-full"
+              class={`group-hover:scale-[1.03] transition duration-300 w-full object-cover ${i === 0 ? "max-h-[280px]" : "max-h-[200px]"}`}
               src={post.data.image}
               alt={post.data.title}
               width={i === 0 ? 925 : 445}
-              height={i === 0 ? 475 : 230}
+              height={i === 0 ? 280 : 200}
             />
           </a>
         )}

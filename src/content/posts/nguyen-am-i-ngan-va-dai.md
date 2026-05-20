@@ -30,6 +30,10 @@ draft: false
 
 ### /ɪ/ — âm "i" ngắn
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/i-ngan.mp3" type="audio/mpeg" />
+</audio>
+
 1. Hé miệng nhỏ, không cần mở rộng
 2. **Môi thư giãn hoàn toàn** — không kéo sang hai bên
 3. Lưỡi đặt ở vị trí cao-trước nhưng **thấp và chùng hơn** so với /iː/
@@ -39,6 +43,10 @@ draft: false
 Từ ví dụ: **b**ɪ**t**, **s**ɪ**t**, **f**ɪ**sh**, **b**ɪ**g**, **sh**ɪ**p**
 
 ### /iː/ — âm "i" dài
+
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/i-dai.mp3" type="audio/mpeg" />
+</audio>
 
 1. **Kéo môi sang hai bên** như khi mỉm cười rộng
 2. Lưỡi đẩy lên vị trí cao-trước, **căng hơn**
