@@ -2,7 +2,7 @@
 title: "Phân biệt /ɛ/ và /æ/ — 'bed' không phải 'bad'!"
 meta_title: "Nguyên âm /ɛ/ và /æ/ trong tiếng Anh"
 description: "Học cách phân biệt /ɛ/ (như trong 'bed') và /æ/ (như trong 'bad') — âm /æ/ hoàn toàn không có trong tiếng Việt!"
-date: "2026-05-20"
+date: "2026-06-17"
 image: "https://placehold.co/600x400/15803d/ffffff?text=/ɛ/+vs+/æ/"
 categories: ["Nguyên Âm"]
 authors: ["pronunciation-guide"]
@@ -136,7 +136,7 @@ Câu ví dụ:
 
 ### Tongue Twisters — Luyện cơ miệng
 
-1. *"A bad cat sat on Matt's mat and ate a fat rat."* (Tập trung vào /æ/)
+1. *"A bad cat sat on Matt's mat and trapped a fat rat."* (Tập trung vào /æ/)
 2. *"The men's red pen set on the wet shelf."* (Tập trung vào /ɛ/)
 3. *"Can a tan man fan a plan to tan in Japan?"*
 
@@ -158,3 +158,16 @@ Câu ví dụ:
 
 **3. Nhầm lẫn giữa /ɛ/ và /æ/ trong chính tả**
 Không phải lúc nào chữ "e" cũng là /ɛ/ và chữ "a" cũng là /æ/. Hãy học phát âm từng từ qua IPA thay vì chỉ dựa vào chữ viết.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm để so sánh /ɛ/ và /æ/:
+
+- [bed – YouGlish](https://youglish.com/pronounce/bed/english)
+- [bad – YouGlish](https://youglish.com/pronounce/bad/english)
+- [men – YouGlish](https://youglish.com/pronounce/men/english)
+- [man – YouGlish](https://youglish.com/pronounce/man/english)
+- [set – Forvo](https://forvo.com/word/set/#en)
+- [sat – Forvo](https://forvo.com/word/sat/#en)

@@ -2,7 +2,7 @@
 title: "Ngữ điệu — Lên giọng hay xuống giọng?"
 meta_title: "Ngữ điệu trong tiếng Anh"
 description: "Học các kiểu ngữ điệu trong tiếng Anh — lên, xuống, và lên-xuống — để câu nói truyền đúng ý nghĩa và cảm xúc."
-date: "2026-06-05"
+date: "2026-06-01"
 image: "https://placehold.co/600x400/2d4a00/ffffff?text=Intonation"
 categories: ["Ngữ Điệu"]
 authors: ["pronunciation-guide"]
@@ -181,12 +181,20 @@ I need to buy ↗ shampoo, ↗ soap, ↗ toothpaste, and ↘ **toothbrush**.
 
 ### Bài tập tag questions
 
-Tag questions là bài tập tốt để luyện ngữ điệu:
+Tag questions (câu hỏi đuôi) thể hiện rõ sự khác biệt giữa ↘ và ↗:
+
+- **Ngữ điệu ↘** (giảm): Người nói đã biết câu trả lời — chỉ muốn xác nhận
+- **Ngữ điệu ↗** (tăng): Người nói thật sự không chắc — muốn hỏi thật
 
 | Câu | Ngữ điệu tag | Ý nghĩa |
 |-----|-------------|---------|
 | "It's hot, ↘ isn't it?" | ↘ | Đã biết — chỉ tìm sự đồng ý |
 | "She's coming, ↗ isn't she?" | ↗ | Chưa chắc — thật sự hỏi |
+| "You've been here before, ↘ haven't you?" | ↘ | Tôi nghĩ bạn đã đến — đúng không? |
+| "This is your first time, ↗ isn't it?" | ↗ | Tôi không chắc — thật sự hỏi |
+| "We can leave now, ↘ can't we?" | ↘ | Tôi tin là được — đúng chứ? |
+
+**Luyện tập:** Đọc từng câu với đúng ngữ điệu. Thử ghi âm lại và so sánh cảm nhận.
 
 ### Lỗi phổ biến của người Việt
 
@@ -198,3 +206,17 @@ Một số người Việt vô tình dùng thanh điệu của tiếng Việt kh
 
 **3. Dùng ngữ điệu tăng ↗ cho tất cả câu**
 Một số người Việt kết thúc mọi câu bằng giọng lên — nghe như đang hỏi khi thực ra đang khẳng định. Điều này gây ấn tượng thiếu tự tin. Hãy tập kết thúc câu khẳng định bằng giọng xuống ↘ một cách dứt khoát.
+
+---
+
+## Nghe thêm
+
+Nghe ngữ điệu trong lời nói tự nhiên:
+
+- [really – YouGlish](https://youglish.com/pronounce/really/english)
+- [are you sure – YouGlish](https://youglish.com/pronounce/are%20you%20sure/english)
+- [I see – YouGlish](https://youglish.com/pronounce/I%20see/english)
+- [intonation – YouGlish](https://youglish.com/pronounce/intonation/english)
+- [right – Forvo](https://forvo.com/word/right/#en)
+
+> **Mẹo:** Khi nghe YouGlish, hãy chú ý xem giọng người nói tăng hay giảm ở cuối câu — đó là cách tốt nhất để luyện tai về ngữ điệu.

@@ -2,7 +2,7 @@
 title: "Phân biệt /θ/ và /ð/ — Âm 'TH' khó nhất trong tiếng Anh!"
 meta_title: "Phụ âm /θ/ và /ð/ trong tiếng Anh"
 description: "Học cách phát âm /θ/ (think, bath) và /ð/ (this, bathe) — hai âm hoàn toàn không có trong tiếng Việt."
-date: "2026-05-25"
+date: "2026-06-12"
 image: "https://placehold.co/600x400/0f766e/ffffff?text=/θ/+vs+/ð/"
 categories: ["Phụ Âm"]
 authors: ["pronunciation-guide"]
@@ -160,13 +160,34 @@ Câu ví dụ:
 
 ### Minimal Pairs — Cặp từ tối giản
 
-| /θ/ | /ð/ |
+**Phân biệt /θ/ và /ð/ (cùng vị trí, chỉ khác hữu/vô thanh):**
+
+| /θ/ (vô thanh) | /ð/ (hữu thanh) |
+|----------------|-----------------|
+| teeth /tiːθ/ | teethe /tiːð/ |
+| bath /bɑːθ/ | bathe /beɪð/ |
+| wreath /riːθ/ | wreathe /riːð/ |
+| loath /ləʊθ/ | loathe /ləʊð/ |
+| sheath /ʃiːθ/ | sheathe /ʃiːð/ |
+
+**Phân biệt /θ/ với /t/ và /s/ (lỗi thay thế phổ biến của người Việt):**
+
+| /θ/ | /t/ | /s/ |
+|-----|-----|-----|
+| thin /θɪn/ | tin /tɪn/ | sin /sɪn/ |
+| three /θriː/ | tree /triː/ | — |
+| thank /θæŋk/ | tank /tæŋk/ | — |
+| theme /θiːm/ | team /tiːm/ | seem /siːm/ |
+| thought /θɔːt/ | taught /tɔːt/ | sought /sɔːt/ |
+
+**Phân biệt /ð/ với /d/ (lỗi thay thế phổ biến của người Việt):**
+
+| /ð/ | /d/ |
 |-----|-----|
-| teeth | teethe |
-| bath | bathe |
-| wreath | wreathe |
-| loath | loathe |
-| mouth (n.) | mouth (v.) |
+| then /ðɛn/ | den /dɛn/ |
+| they /ðeɪ/ | day /deɪ/ |
+| though /ðoʊ/ | dough /doʊ/ |
+| worthy /ˈwɜːði/ | wordy /ˈwɜːdi/ |
 
 ### Tongue Twisters — Luyện cơ miệng
 
@@ -192,3 +213,16 @@ Câu ví dụ:
 
 **3. Sợ hãi việc đưa lưỡi ra ngoài**
 Nhiều người Việt cảm thấy kỳ lạ khi đưa lưỡi ra. Đây là phản ứng hoàn toàn bình thường — chỉ cần luyện tập nhiều, cảm giác sẽ quen dần. Người bản ngữ làm điều này một cách tự nhiên mà không nghĩ gì cả.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm /θ/ và /ð/:
+
+- [think – YouGlish](https://youglish.com/pronounce/think/english)
+- [three – YouGlish](https://youglish.com/pronounce/three/english)
+- [this – YouGlish](https://youglish.com/pronounce/this/english)
+- [that – YouGlish](https://youglish.com/pronounce/that/english)
+- [bath – Forvo](https://forvo.com/word/bath/#en)
+- [bathe – Forvo](https://forvo.com/word/bathe/#en)

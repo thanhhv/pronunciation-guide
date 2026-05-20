@@ -2,7 +2,7 @@
 title: "Phân biệt /l/ và /r/ — Thử thách kinh điển của người học châu Á!"
 meta_title: "Phụ âm /l/ và /r/ trong tiếng Anh"
 description: "Học cách phân biệt /l/ (light) và /r/ (right) — cặp âm nổi tiếng khó nhất với người học tiếng Anh gốc châu Á."
-date: "2026-05-29"
+date: "2026-06-08"
 image: "https://placehold.co/600x400/166534/ffffff?text=/l/+vs+/r/"
 categories: ["Phụ Âm"]
 authors: ["pronunciation-guide"]
@@ -165,3 +165,16 @@ Não người Việt không cần phân biệt /l/ và /r/ vì tiếng Việt ch
 
 **3. "Dark L" cuối từ nghe như /w/**
 Nhiều người Việt phát âm "hill" = "hew", "full" = "few". Âm /l/ cuối từ (dark L) khác với /l/ đầu từ — phần sau lưỡi cũng nâng lên. Nhưng đầu lưỡi vẫn phải chạm lợi trên. Đừng thả lưỡi xuống hoàn toàn.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm để so sánh /l/ và /r/:
+
+- [light – YouGlish](https://youglish.com/pronounce/light/english)
+- [right – YouGlish](https://youglish.com/pronounce/right/english)
+- [load – YouGlish](https://youglish.com/pronounce/load/english)
+- [road – YouGlish](https://youglish.com/pronounce/road/english)
+- [law – Forvo](https://forvo.com/word/law/#en)
+- [raw – Forvo](https://forvo.com/word/raw/#en)

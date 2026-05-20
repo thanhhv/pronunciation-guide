@@ -2,7 +2,7 @@
 title: "Phân biệt /ɒ/ và /ɔː/ — 'cot' không phải 'caught'!"
 meta_title: "Nguyên âm /ɒ/ và /ɔː/ trong tiếng Anh"
 description: "Học cách phân biệt /ɒ/ (như trong 'hot', 'stop') và /ɔː/ (như trong 'hall', 'walk') — hai âm dễ bị nhầm lẫn."
-date: "2026-05-23"
+date: "2026-06-14"
 image: "https://placehold.co/600x400/dc2626/ffffff?text=/ɒ/+vs+/ɔː/"
 categories: ["Nguyên Âm"]
 authors: ["pronunciation-guide"]
@@ -15,7 +15,9 @@ draft: false
 - **/ɒ/** — âm "o" ngắn, thấp. Ví dụ: **hot**, **cot**, **stop**
 - **/ɔː/** — âm "aw" dài, tròn. Ví dụ: **hall**, **caught**, **walk**
 
-**Lưu ý:** Trong tiếng Anh Mỹ hiện đại, nhiều người nói /ɒ/ và /ɔː/ giống nhau (gọi là "cot-caught merger"). Trong tiếng Anh Anh và một số vùng ở Mỹ, hai âm này vẫn được phân biệt rõ ràng. Bài này theo chuẩn tiếng Anh Anh.
+**Lưu ý về phương ngữ:** Trong tiếng Anh Mỹ hiện đại, nhiều người nói /ɒ/ và /ɔː/ giống nhau (gọi là "cot-caught merger") — cả hai đều phát âm gần như /ɑː/. Trong tiếng Anh Anh và một số vùng ở Mỹ, hai âm này vẫn được phân biệt rõ ràng. **Bài này theo chuẩn tiếng Anh Anh.**
+
+> **Nếu bạn học tiếng Anh Mỹ:** "hot" (/hɒt/ theo chuẩn Anh Anh) phát âm là /hɑːt/ trong tiếng Anh Mỹ — tương tự âm "a" trong "cart" nhưng ngắn hơn. "Cot" và "caught" nghe gần như giống nhau. Khi nghe người Mỹ, đừng ngạc nhiên nếu /ɒ/ và /ɔː/ nghe không khác biệt.
 
 **Âm này có trong tiếng Việt không?**
 
@@ -158,3 +160,16 @@ Câu ví dụ:
 
 **3. Nhầm chính tả với phát âm**
 "Walk" không đọc có âm "l" — /wɔːk/, không phải /wɔːlk/. "Talk" cũng vậy: /tɔːk/. Đây là trường hợp chữ viết không phản ánh đúng âm thanh — hãy học theo IPA.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm để so sánh /ɒ/ và /ɔː/:
+
+- [hot – YouGlish](https://youglish.com/pronounce/hot/english)
+- [hall – YouGlish](https://youglish.com/pronounce/hall/english)
+- [cot – YouGlish](https://youglish.com/pronounce/cot/english)
+- [caught – YouGlish](https://youglish.com/pronounce/caught/english)
+- [top – Forvo](https://forvo.com/word/top/#en)
+- [talk – Forvo](https://forvo.com/word/talk/#en)

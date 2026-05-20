@@ -1,5 +1,5 @@
 ---
-title: "Bắt Đầu Từ Đây — Lộ Trình Học Phát Âm Tiếng Anh"
+title: "Bắt Đầu Từ Đây"
 meta_title: "Bắt Đầu Học Phát Âm Tiếng Anh"
 description: "Không biết bắt đầu từ đâu? Đọc trang này trước — lộ trình học phát âm tiếng Anh từ cơ bản đến nâng cao dành riêng cho người Việt."
 draft: false

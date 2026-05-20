@@ -2,7 +2,7 @@
 title: "Phụ âm /ŋ/ — Âm 'NG' cuối từ mà người Việt hay thêm 'G' thừa!"
 meta_title: "Phụ âm /ŋ/ trong tiếng Anh"
 description: "Học cách phát âm /ŋ/ đúng chuẩn trong 'sing', 'running', 'think' — và tránh lỗi thêm âm /g/ thừa vào cuối từ."
-date: "2026-05-31"
+date: "2026-06-06"
 image: "https://placehold.co/600x400/831843/ffffff?text=/ŋ/+ng"
 categories: ["Phụ Âm"]
 authors: ["pronunciation-guide"]
@@ -179,3 +179,16 @@ Sau đó luyện trong câu:
 
 **3. Phát âm -ing quá rõ như "ing" tiếng Việt**
 Đuôi -ing trong lời nói tự nhiên thường khá nhẹ và nhanh — /ɪŋ/ chứ không phải /iːŋ/ rõ ràng như tiếng Việt. Hãy phát âm thoải mái, không quá nhấn vào đuôi -ing.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm âm /ŋ/:
+
+- [sing – YouGlish](https://youglish.com/pronounce/sing/english)
+- [running – YouGlish](https://youglish.com/pronounce/running/english)
+- [think – YouGlish](https://youglish.com/pronounce/think/english)
+- [long – YouGlish](https://youglish.com/pronounce/long/english)
+- [bring – Forvo](https://forvo.com/word/bring/#en)
+- [king – Forvo](https://forvo.com/word/king/#en)

@@ -2,7 +2,7 @@
 title: "Phân biệt /v/ và /f/ — 'van' không phải 'fan'!"
 meta_title: "Phụ âm /v/ và /f/ trong tiếng Anh"
 description: "Học cách phát âm /f/ và /v/ đúng chuẩn — đặc biệt là /v/ mà người Việt thường phát âm sai hoàn toàn."
-date: "2026-05-26"
+date: "2026-06-11"
 image: "https://placehold.co/600x400/7e22ce/ffffff?text=/v/+vs+/f/"
 categories: ["Phụ Âm"]
 authors: ["pronunciation-guide"]
@@ -198,3 +198,16 @@ Câu ví dụ:
 
 **3. Nhầm lẫn "live" (động từ /lɪv/) và "life" (danh từ /laɪf/)**
 "I live in Hanoi" (/lɪv/) khác với "Life is beautiful" (/laɪf/). Cả âm lẫn nguyên âm đều khác nhau — hãy học cả hai cách đọc.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm /v/ và /f/:
+
+- [van – YouGlish](https://youglish.com/pronounce/van/english)
+- [fan – YouGlish](https://youglish.com/pronounce/fan/english)
+- [very – YouGlish](https://youglish.com/pronounce/very/english)
+- [life – YouGlish](https://youglish.com/pronounce/life/english)
+- [live – Forvo](https://forvo.com/word/live/#en)
+- [five – Forvo](https://forvo.com/word/five/#en)

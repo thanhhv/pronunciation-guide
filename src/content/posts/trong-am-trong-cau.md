@@ -2,7 +2,7 @@
 title: "Trọng âm trong câu — Từ nào được nhấn, từ nào bị lướt qua?"
 meta_title: "Trọng âm trong câu tiếng Anh"
 description: "Học cách người bản ngữ nhấn trọng âm trong câu — phân biệt content words và function words để câu nói nghe tự nhiên hơn."
-date: "2026-06-02"
+date: "2026-06-04"
 image: "https://placehold.co/600x400/3d0066/ffffff?text=Sentence+STRESS"
 categories: ["Trọng Âm"]
 authors: ["pronunciation-guide"]
@@ -169,3 +169,17 @@ Người Việt hay nhấn "I", "she", "he" vì tiếng Việt hay dùng từ "t
 
 **3. Không thay đổi nuclear stress để nhấn mạnh**
 Đây là một công cụ giao tiếp mạnh mà người Việt ít dùng trong tiếng Anh. Luyện tập bằng cách đọc lại các câu với nuclear stress ở vị trí khác nhau và nghe sự thay đổi về sắc thái ý nghĩa.
+
+---
+
+## Nghe thêm
+
+Chú ý cách nhấn trọng âm câu trong lời nói tự nhiên:
+
+- [important – YouGlish](https://youglish.com/pronounce/important/english)
+- [beautiful – YouGlish](https://youglish.com/pronounce/beautiful/english)
+- [really – YouGlish](https://youglish.com/pronounce/really/english)
+- [actually – YouGlish](https://youglish.com/pronounce/actually/english)
+- [definitely – Forvo](https://forvo.com/word/definitely/#en)
+
+> **Mẹo:** Khi nghe YouGlish, hãy chú ý đến từ nào được nhấn mạnh trong câu xung quanh — đó là cách luyện trọng âm câu hiệu quả nhất.

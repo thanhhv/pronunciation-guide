@@ -2,7 +2,7 @@
 title: "Phân biệt /ʌ/ và /ɑː/ — 'cut' không phải 'cart'!"
 meta_title: "Nguyên âm /ʌ/ và /ɑː/ trong tiếng Anh"
 description: "Học cách phát âm /ʌ/ (như trong 'cut', 'bus') và /ɑː/ (như trong 'car', 'far') — hai âm trông giống nhau nhưng khác nhau rõ rệt."
-date: "2026-05-21"
+date: "2026-06-16"
 image: "https://placehold.co/600x400/b45309/ffffff?text=/ʌ/+vs+/ɑː/"
 categories: ["Nguyên Âm"]
 authors: ["pronunciation-guide"]
@@ -156,3 +156,16 @@ Nhiều người Việt phát âm /ɑː/ như "a" ngắn. Hãy mở miệng rộ
 
 **3. Không nghe thấy sự khác biệt trong ngữ cảnh thực tế**
 /ɑː/ thường xuất hiện trước "r" trong tiếng Anh Anh (car, bar, far, park). Khi nghe những từ này, hãy chú ý độ dài và độ mở của âm.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm để so sánh /ʌ/ và /ɑː/:
+
+- [cut – YouGlish](https://youglish.com/pronounce/cut/english)
+- [cart – YouGlish](https://youglish.com/pronounce/cart/english)
+- [cup – YouGlish](https://youglish.com/pronounce/cup/english)
+- [car – YouGlish](https://youglish.com/pronounce/car/english)
+- [bug – Forvo](https://forvo.com/word/bug/#en)
+- [bar – Forvo](https://forvo.com/word/bar/#en)

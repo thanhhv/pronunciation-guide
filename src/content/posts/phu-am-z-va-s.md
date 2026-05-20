@@ -2,7 +2,7 @@
 title: "Phân biệt /z/ và /s/ — 'zip' không phải 'sip'!"
 meta_title: "Phụ âm /z/ và /s/ trong tiếng Anh"
 description: "Học cách phát âm /s/ và /z/ — đặc biệt là /z/ cuối từ mà người Việt thường bỏ qua hoặc phát âm sai."
-date: "2026-05-27"
+date: "2026-06-10"
 image: "https://placehold.co/600x400/b91c1c/ffffff?text=/z/+vs+/s/"
 categories: ["Phụ Âm"]
 authors: ["pronunciation-guide"]
@@ -184,3 +184,16 @@ Câu ví dụ:
 
 **3. Phát âm "is" và "was" không rung**
 "He is here" — "is" = /ɪz/, có rung rõ. "She was happy" — "was" = /wɒz/, có rung. Đừng nói /ɪs/ hay /wɒs/.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm /z/ và /s/:
+
+- [zip – YouGlish](https://youglish.com/pronounce/zip/english)
+- [sip – YouGlish](https://youglish.com/pronounce/sip/english)
+- [buzz – YouGlish](https://youglish.com/pronounce/buzz/english)
+- [bus – YouGlish](https://youglish.com/pronounce/bus/english)
+- [zoo – Forvo](https://forvo.com/word/zoo/#en)
+- [sue – Forvo](https://forvo.com/word/sue/#en)

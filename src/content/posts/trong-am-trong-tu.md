@@ -2,7 +2,7 @@
 title: "Trọng âm trong từ — Nhấn đúng chỗ để người khác hiểu bạn!"
 meta_title: "Trọng âm trong từ tiếng Anh"
 description: "Học các quy tắc đặt trọng âm trong từ tiếng Anh — lý do khiến người Việt bị nghe nhầm dù phát âm đúng từng âm."
-date: "2026-06-01"
+date: "2026-06-05"
 image: "https://placehold.co/600x400/1e3a5f/ffffff?text=Word+STRESS"
 categories: ["Trọng Âm"]
 authors: ["pronunciation-guide"]
@@ -146,6 +146,48 @@ Câu ví dụ:
 
 ---
 
+## Quy tắc thêm — Từ 3 âm tiết trở lên & Trọng âm phụ
+
+### Từ 3 âm tiết — Không có đuôi đặc biệt
+
+| Từ | Trọng âm đúng | Sai |
+|----|---------------|-----|
+| family | **FAM**-i-ly | fa-**MI**-ly |
+| holiday | **HOL**-i-day | hol-**I**-day |
+| interesting | **IN**-ter-est-ing | in-**TER**-est-ing |
+| banana | ba-**NA**-na | **BA**-na-na |
+| tomorrow | to-**MOR**-row | **TO**-mor-row |
+| develop | de-**VEL**-op | **DE**-vel-op |
+
+### Trọng âm phụ (Secondary Stress)
+
+Từ dài thường có **trọng âm phụ** (ký hiệu ˌ) — nhấn nhẹ hơn trọng âm chính, nhưng mạnh hơn các âm tiết bình thường:
+
+| Từ | IPA | Trọng âm chính | Trọng âm phụ |
+|----|-----|----------------|--------------|
+| photograph | /ˈfoʊtəˌɡræf/ | PHO | ˌGRAPH |
+| information | /ˌɪnfərˈmeɪʃən/ | MA | ˌIN |
+| education | /ˌɛdʒʊˈkeɪʃən/ | CA | ˌED |
+| university | /ˌjuːnɪˈvɜːrsɪti/ | VER | ˌU |
+
+### Khi thêm đuôi — Trọng âm thay đổi!
+
+Thêm đuôi vào một từ thường kéo trọng âm sang vị trí mới:
+
+| Từ gốc | Thêm đuôi | Trọng âm thay đổi |
+|--------|-----------|-------------------|
+| **PHO**-to-graph | + -y | pho-**TOG**-ra-phy |
+| pho-**TOG**-ra-phy | + -ic | pho-to-**GRAPH**-ic |
+| **PO**-li-tic | + -al | po-**LI**-ti-cal |
+| e-**LEC**-tric | + -ity | e-lec-**TRIC**-i-ty |
+
+Câu ví dụ:
+1. I love **PHO**-to-graphs — pho-**TOG**-ra-phy is my hobby.
+2. The **POL**-i-tic-ian made a po-**LIT**-i-cal speech.
+3. The e-**LEC**-tric grid needs e-lec-**TRIC**-i-ty from many sources.
+
+---
+
 ## Bài tập luyện tập
 
 ### Nhận diện trọng âm
@@ -179,3 +221,16 @@ Người Việt quen với nhịp điệu đều đặn (mỗi âm tiết = mộ
 
 **3. Không đổi trọng âm khi từ đổi nghĩa**
 "I will **RE**-cord the **re-CORD**" — nhiều người nói cả hai với cùng một trọng âm. Luyện cặp danh từ/động từ có đổi trọng âm cho đến khi nó trở thành phản xạ tự nhiên.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ nhấn trọng âm trong những từ này:
+
+- [record – YouGlish](https://youglish.com/pronounce/record/english)
+- [present – YouGlish](https://youglish.com/pronounce/present/english)
+- [photograph – YouGlish](https://youglish.com/pronounce/photograph/english)
+- [education – YouGlish](https://youglish.com/pronounce/education/english)
+- [beautiful – Forvo](https://forvo.com/word/beautiful/#en)
+- [important – Forvo](https://forvo.com/word/important/#en)

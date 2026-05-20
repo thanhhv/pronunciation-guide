@@ -2,7 +2,7 @@
 title: "Phụ âm /r/ kiểu Mỹ — Âm khó nhất với người học châu Á!"
 meta_title: "Phụ âm /r/ tiếng Anh Mỹ"
 description: "Học cách phát âm /r/ kiểu Mỹ đúng chuẩn — không trrrrrill, không rung lưỡi, chỉ cong lưỡi lại một cách tự nhiên."
-date: "2026-05-28"
+date: "2026-06-09"
 image: "https://placehold.co/600x400/1e40af/ffffff?text=/r/+kieu+My"
 categories: ["Phụ Âm"]
 authors: ["pronunciation-guide"]
@@ -47,6 +47,8 @@ draft: false
 4. Đầu lưỡi có thể trỏ xuống hoặc ra trước — tùy người
 
 *Cả hai phương pháp đều cho ra âm /r/ đúng chuẩn — hãy thử cả hai và chọn cái nào cảm thấy tự nhiên hơn.*
+
+> **Gợi ý cho người mới bắt đầu:** Hãy bắt đầu với **Phương pháp 2 (Bunched)**. Nhiều học viên thấy phương pháp này dễ kiểm soát hơn vì lưỡi giữ ổn định ở giữa miệng thay vì cong ngược về sau. Sau 2 tuần luyện tập, nếu âm vẫn chưa tự nhiên, hãy thử chuyển sang Phương pháp 1 (Retroflex).
 
 Từ ví dụ: **red**, **run**, **very**, **word**, **first**
 
@@ -176,3 +178,16 @@ Người miền Bắc có xu hướng phát âm "r" như /z/ (Hà Nội: "rồi"
 
 **3. Không r-color nguyên âm trước r cuối từ**
 Từ "bird" trong tiếng Anh Mỹ nghe rất khác tiếng Anh Anh. Nguyên âm /ɜː/ bị ảnh hưởng mạnh bởi /r/ — cả âm tiết nghe như tiếng "rên" nhẹ. Luyện riêng các từ: bird, word, first, her, turn.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm /r/ tiếng Anh Mỹ:
+
+- [red – YouGlish](https://youglish.com/pronounce/red/english)
+- [bird – YouGlish](https://youglish.com/pronounce/bird/english)
+- [very – YouGlish](https://youglish.com/pronounce/very/english)
+- [first – YouGlish](https://youglish.com/pronounce/first/english)
+- [word – Forvo](https://forvo.com/word/word/#en)
+- [her – Forvo](https://forvo.com/word/her/#en)

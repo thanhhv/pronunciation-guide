@@ -2,7 +2,7 @@
 title: "Âm giảm (Weak Forms) — Tại sao 'the' không phải lúc nào cũng đọc như nhau?"
 meta_title: "Weak Forms — Âm giảm trong tiếng Anh"
 description: "Học cách các từ chức năng như the, a, and, of, for, to được phát âm khác nhau tùy ngữ cảnh — bí quyết để nghe tự nhiên như người bản ngữ."
-date: "2026-06-04"
+date: "2026-06-02"
 image: "https://placehold.co/600x400/4a1942/ffffff?text=Weak+Forms"
 categories: ["Trọng Âm"]
 authors: ["pronunciation-guide"]
@@ -165,3 +165,17 @@ Khi nghe "I wanna cup əv tea", não người Việt có thể không nhận ra 
 
 **3. Phát âm "the" luôn là /ðiː/**
 "the book" (/ðiː bʊk/ → sai) vs (/ðə bʊk/ → đúng). Chỉ dùng /ðiː/ trước nguyên âm (the apple, the egg). Trước phụ âm luôn là /ðə/.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ sử dụng weak forms trong lời nói tự nhiên:
+
+- [because – YouGlish](https://youglish.com/pronounce/because/english)
+- [for – YouGlish](https://youglish.com/pronounce/for/english)
+- [want to – YouGlish](https://youglish.com/pronounce/want%20to/english)
+- [a lot of – YouGlish](https://youglish.com/pronounce/a%20lot%20of/english)
+- [can – Forvo](https://forvo.com/word/can/#en)
+
+> **Mẹo:** Khi nghe YouGlish, hãy chú ý xem những từ chức năng ("the", "a", "and", "for") được phát âm nhẹ như thế nào trong câu — đó là weak form trong thực tế.

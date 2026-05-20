@@ -2,7 +2,7 @@
 title: "Phân biệt /dʒ/ và /tʃ/ — 'job' không phải 'chop'!"
 meta_title: "Phụ âm /dʒ/ và /tʃ/ trong tiếng Anh"
 description: "Học cách phân biệt /tʃ/ (church, cheap) và /dʒ/ (job, judge) — hai âm tắc-xát dễ nhầm lẫn."
-date: "2026-05-30"
+date: "2026-06-07"
 image: "https://placehold.co/600x400/92400e/ffffff?text=/dʒ/+vs+/tʃ/"
 categories: ["Phụ Âm"]
 authors: ["pronunciation-guide"]
@@ -193,3 +193,16 @@ Câu ví dụ:
 
 **3. Nhầm /tʃ/ với âm "ch" tiếng Việt đơn giản**
 Âm "ch" tiếng Anh (church, cheap) có vị trí lưỡi lui về sau hơn "ch" tiếng Việt — tiếng Việt là dental/alveolar, tiếng Anh là post-alveolar. Nếu bạn thấy âm mình nghe hơi khác người bản ngữ, hãy thử di lưỡi lui về phía sau hơn một chút.
+
+---
+
+## Nghe thêm
+
+Nghe người bản ngữ phát âm /dʒ/ và /tʃ/:
+
+- [job – YouGlish](https://youglish.com/pronounce/job/english)
+- [chop – YouGlish](https://youglish.com/pronounce/chop/english)
+- [judge – YouGlish](https://youglish.com/pronounce/judge/english)
+- [church – YouGlish](https://youglish.com/pronounce/church/english)
+- [age – Forvo](https://forvo.com/word/age/#en)
+- [each – Forvo](https://forvo.com/word/each/#en)

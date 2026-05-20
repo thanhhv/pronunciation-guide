@@ -154,3 +154,39 @@ After implementing each post or phase, always verify the content from the perspe
 - Would a Vietnamese learner reading this be able to immediately practice and notice a difference in their pronunciation?
 
 If any of the above checks fail, fix the content before moving on to the next post. Do not accumulate errors across posts — a wrong foundation makes later content harder to trust.
+
+---
+
+## Content Review Checklist
+
+Run this checklist on each post before publishing or after major edits.
+
+### IPA Accuracy
+- [ ] IPA symbols are correct and consistent throughout
+- [ ] Mouth/tongue position description matches the actual phoneme
+- [ ] Voiced/unvoiced distinction stated where relevant
+
+### Examples
+- [ ] Example words are common vocabulary (no obscure words for beginners)
+- [ ] Minimal pairs differ by exactly one sound — no exceptions
+- [ ] Tongue twisters contain ≥ 5 instances of the target sound
+- [ ] Sentence drills use natural, common sentences (not artificially constructed)
+
+### Vietnamese Learner Specifics
+- [ ] Common mistakes section addresses specifically Vietnamese substitution errors
+- [ ] Dialect flag added where American vs. British pronunciation differs significantly
+- [ ] Register flag added where a form (e.g., "wanna") is informal-only
+
+### Structure
+- [ ] All five sections present: Introduction, How to Pronounce, Position Notes, Practice, Common Mistakes
+- [ ] Practice section has progression: isolated sound → words → sentences
+- [ ] "Nghe thêm" section includes 3–5 YouGlish/Forvo links for key words
+
+### Post-Specific Checks
+- /r/ post: bunched method recommended first ✓
+- /θ/ /ð/ post: ≥ 8 minimal pairs ✓
+- Word stress post: 3+ syllable words and secondary stress covered ✓
+- Linking post: elision rule stated explicitly (not just examples) ✓
+- Intonation post: tag questions either fully developed or trimmed to 2 examples
+
+If any of the above checks fail, fix the content before moving on to the next post. Do not accumulate errors across posts — a wrong foundation makes later content harder to trust.
