@@ -35,6 +35,10 @@ Không! Tiếng Việt không có khái niệm "vowel reduction" — mỗi âm t
 
 ### /ə/ — Schwa
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/ơ ngắn.mp3" type="audio/mpeg" />
+</audio>
+
 1. Miệng **hơi hé mở**, hàm thư giãn hoàn toàn
 2. Môi **không căng, không tròn** — trung tính tuyệt đối
 3. Lưỡi ở **giữa miệng** — không đẩy lên, không hạ xuống, không ra trước hay sau

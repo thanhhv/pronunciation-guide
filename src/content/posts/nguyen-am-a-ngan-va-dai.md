@@ -28,6 +28,10 @@ draft: false
 
 ### /ʌ/ — âm "ă" trung
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/a ngắn.mp3" type="audio/mpeg" />
+</audio>
+
 1. Miệng **hơi mở**, hàm dưới hạ nhẹ
 2. Môi thư giãn — không tròn, không kéo
 3. Lưỡi ở vị trí **giữa-thấp**, không căng
@@ -37,6 +41,10 @@ draft: false
 Từ ví dụ: **cut**, **bus**, **run**, **sun**, **fun**
 
 ### /ɑː/ — âm "a" dài
+
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/a dài.mp3" type="audio/mpeg" />
+</audio>
 
 1. **Mở miệng rộng nhất có thể** — hàm dưới hạ thấp hơn tất cả các nguyên âm khác
 2. Môi không tròn, mở rộng tự nhiên

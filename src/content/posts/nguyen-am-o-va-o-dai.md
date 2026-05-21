@@ -32,6 +32,10 @@ draft: false
 
 ### /ɒ/ — âm "o" ngắn
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/o ngắn.mp3" type="audio/mpeg" />
+</audio>
+
 1. **Mở miệng rộng** — hàm dưới hạ thấp hơn so với âm "o" tiếng Việt
 2. Môi tròn nhẹ hoặc không tròn (trong tiếng Anh Anh)
 3. Lưỡi ở vị trí **thấp-sau**
@@ -41,6 +45,10 @@ draft: false
 Từ ví dụ: **hot**, **cot**, **lot**, **stop**, **clock**
 
 ### /ɔː/ — âm "aw" dài
+
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/o dài.mp3" type="audio/mpeg" />
+</audio>
 
 1. Miệng mở **vừa phải** — không quá rộng như /ɒ/
 2. **Môi tròn rõ ràng hơn** so với /ɒ/

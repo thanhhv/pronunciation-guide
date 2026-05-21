@@ -64,7 +64,7 @@ Những phụ âm không có hoặc hay bị phát âm sai trong tiếng Việt:
 
 ### Giai đoạn 3 — Trọng Âm & Ngữ Điệu
 
-Bước cuối để nghe và nói tự nhiên như người bản ngữ:
+Sau khi nắm vững các âm, đây là bước để nghe và nói tự nhiên như người bản ngữ:
 
 | # | Bài | Chủ đề |
 |---|-----|--------|
@@ -73,6 +73,37 @@ Bước cuối để nghe và nói tự nhiên như người bản ngữ:
 | 16 | [Nối âm](/blog/noi-lien-am) | Wanna, gonna, gimme — lý do người bản ngữ nói nhanh |
 | 17 | [Âm giảm (Weak Forms)](/blog/am-giam-weak-forms) | The, a, and, of, for, to phát âm thế nào thực tế |
 | 18 | [Ngữ điệu](/blog/ngu-dieu-intonation) | Lên giọng, xuống giọng — khi nào dùng cái nào |
+
+### Giai đoạn 4 — Nguyên Âm Mở Rộng & Phụ Âm Bổ Sung
+
+Âm r-colored, 8 âm đôi (diphthong), và các phụ âm không có trong tiếng Việt hay chương trình học cơ bản:
+
+| # | Bài | Âm | Ví dụ |
+|---|-----|----|-------|
+| 19 | [/ɜː/ — âm r-colored](/blog/nguyen-am-er) | ư dài | bird, word, nurse |
+| 20 | [/eɪ/](/blog/nguyen-am-ei) | âm đôi ei | wait, name, day |
+| 21 | [/aɪ/](/blog/nguyen-am-ai) | âm đôi ai | my, time, night |
+| 22 | [/ɔɪ/](/blog/nguyen-am-oi) | âm đôi oi | boy, coin, voice |
+| 23 | [/aʊ/](/blog/nguyen-am-au) | âm đôi au | cow, now, out |
+| 24 | [/əʊ/](/blog/nguyen-am-ou) | âm đôi ou | show, go, home |
+| 25 | [/ɪə/](/blog/nguyen-am-ia) | âm đôi ia | here, near, ear |
+| 26 | [/eə/](/blog/nguyen-am-ea) | âm đôi ea | hair, there, care |
+| 27 | [/ʊə/](/blog/nguyen-am-ua) | âm đôi ua | tourist, pure, cure |
+| 28 | [/ʃ/ và /ʒ/](/blog/phu-am-sh-va-zh) | sh vs zh | shall / measure |
+| 29 | [/w/ và /v/](/blog/phu-am-w-va-v) | w vs v | wet / vet |
+| 30 | [/j/](/blog/phu-am-j) | âm y | yes, year, you |
+| 31 | [/h/](/blog/phu-am-h) | âm h | hat, house, ahead |
+
+### Giai đoạn 5 — Bộ Phụ Âm Đầy Đủ *(Tùy chọn)*
+
+Các phụ âm này tồn tại trong tiếng Việt nên không gây khó khăn lớn — nhưng tiếng Anh có nét khác biệt quan trọng (đặc biệt là hiện tượng bật hơi). Dành cho người muốn phủ đầy đủ 44 âm IPA:
+
+| # | Bài | Âm | Ví dụ |
+|---|-----|----|-------|
+| 32 | [/p/ và /b/](/blog/phu-am-p-va-b) | p vs b + bật hơi | pen / ben |
+| 33 | [/t/ và /d/](/blog/phu-am-t-va-d) | t vs d + bật hơi | ten / den |
+| 34 | [/k/ và /g/](/blog/phu-am-k-va-g) | k vs g + bật hơi | cap / gap |
+| 35 | [/m/ và /n/](/blog/phu-am-m-va-n) | m vs n âm mũi | sum / sun |
 
 ---
 
@@ -103,7 +134,7 @@ Kết hợp blog này với các công cụ dưới đây để nghe âm thanh t
 Trước khi luyện nói một âm, hãy nghe nó ít nhất 20-30 lần qua Forvo hoặc YouGlish. Não bạn cần nhận ra âm trước khi có thể tái tạo nó.
 
 **2. Tập từng âm một**
-Đừng cố học tất cả 18 bài cùng lúc. Hãy chọn một bài, luyện trong 1-2 tuần cho đến khi cảm thấy tự nhiên, rồi mới chuyển sang bài tiếp.
+Đừng cố học tất cả 35 bài cùng lúc. Hãy chọn một bài, luyện trong 1-2 tuần cho đến khi cảm thấy tự nhiên, rồi mới chuyển sang bài tiếp.
 
 **3. Luyện trước gương**
 Phát âm là kỹ năng cơ thể — bạn cần nhìn thấy vị trí miệng lưỡi của mình. Dành 10 phút mỗi ngày luyện trước gương.

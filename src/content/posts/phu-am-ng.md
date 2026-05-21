@@ -36,6 +36,10 @@ Tin không hay: dù biết âm này, người Việt vẫn thường mắc **hai
 
 ### /ŋ/ — âm mũi vùng vòm mềm
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/η.mp3" type="audio/mpeg" />
+</audio>
+
 1. Phần **gốc lưỡi** (cuối lưỡi) chạm lên **vòm mềm** (phần mềm ở cuối vòm miệng)
 2. Đường dẫn miệng bị chặn hoàn toàn
 3. Hơi thoát ra qua **mũi**

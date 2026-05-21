@@ -28,6 +28,10 @@ draft: false
 
 ### /ʊ/ — âm "u" ngắn
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/u ngắn.mp3" type="audio/mpeg" />
+</audio>
+
 1. Môi **tròn nhẹ** — không chúm quá nhiều
 2. Lưỡi ở vị trí **sau-cao nhưng chùng** — thấp hơn /uː/
 3. Cơ miệng **hoàn toàn thư giãn**
@@ -37,6 +41,10 @@ draft: false
 Từ ví dụ: **foot**, **book**, **good**, **wood**, **full**
 
 ### /uː/ — âm "u" dài
+
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/u dài.mp3" type="audio/mpeg" />
+</audio>
 
 1. Môi **tròn và chúm lại rõ ràng**
 2. Lưỡi ở vị trí **sau-cao, căng**

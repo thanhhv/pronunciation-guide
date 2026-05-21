@@ -30,6 +30,10 @@ Hai âm này được gọi là **âm tắc-xát** (affricates): bắt đầu nh
 
 ### /tʃ/ — âm "ch" vô thanh
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/t∫.mp3" type="audio/mpeg" />
+</audio>
+
 1. Đưa đầu lưỡi **lên sau lợi trên** (phía sau hơn so với /t/ thông thường)
 2. **Chặn hơi thở hoàn toàn** một khoảnh khắc ngắn (như /t/)
 3. Thả lưỡi ra, hơi thoát qua khe hẹp tạo ra **tiếng xát** (như /ʃ/)
@@ -38,6 +42,10 @@ Hai âm này được gọi là **âm tắc-xát** (affricates): bắt đầu nh
 Từ ví dụ: **church**, **cheap**, **chair**, **much**, **teacher**
 
 ### /dʒ/ — âm "j" hữu thanh
+
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/dʒ.mp3" type="audio/mpeg" />
+</audio>
 
 1. Vị trí lưỡi **hoàn toàn giống /tʃ/**
 2. **Rung dây thanh quản** ngay từ đầu

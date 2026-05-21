@@ -35,6 +35,10 @@ Nếu bạn nói "very" theo cách người Việt, người bản ngữ sẽ ng
 
 ### /f/ — âm "ph" vô thanh
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/f.mp3" type="audio/mpeg" />
+</audio>
+
 1. **Răng cửa trên chạm nhẹ vào môi dưới**
 2. Thổi hơi qua khe giữa răng và môi
 3. **Không rung** dây thanh quản — âm vô thanh
@@ -43,6 +47,10 @@ Nếu bạn nói "very" theo cách người Việt, người bản ngữ sẽ ng
 Từ ví dụ: **fan**, **feel**, **life**, **leaf**, **off**
 
 ### /v/ — âm "v" hữu thanh
+
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/v.mp3" type="audio/mpeg" />
+</audio>
 
 1. Vị trí **hoàn toàn giống /f/** — răng trên chạm môi dưới
 2. Chỉ thêm: **rung dây thanh quản**

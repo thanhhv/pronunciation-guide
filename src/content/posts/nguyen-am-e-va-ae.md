@@ -28,6 +28,10 @@ draft: false
 
 ### /ɛ/ — âm "e" trung
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/e.mp3" type="audio/mpeg" />
+</audio>
+
 1. Mở miệng vừa phải — hàm dưới hạ một chút
 2. Môi hơi mở, không căng
 3. Lưỡi ở vị trí **trước-thấp vừa**
@@ -37,6 +41,10 @@ draft: false
 Từ ví dụ: **bed**, **red**, **men**, **pet**, **set**
 
 ### /æ/ — âm "a" trước
+
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/ae.mp3" type="audio/mpeg" />
+</audio>
 
 1. **Mở miệng rộng hơn /ɛ/** — hàm dưới hạ thấp hơn
 2. Lưỡi đẩy **về phía trước và xuống thấp** hơn

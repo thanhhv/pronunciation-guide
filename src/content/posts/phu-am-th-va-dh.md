@@ -33,6 +33,10 @@ Cả hai cách thay thế này đều sai và gây hiểu nhầm. Từ "three" (
 
 ### /θ/ — TH vô thanh
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/θ.mp3" type="audio/mpeg" />
+</audio>
+
 1. **Đưa đầu lưỡi ra giữa hai hàm răng** (hoặc chạm nhẹ vào mặt sau răng cửa trên)
 2. Thổi hơi ra qua khe giữa lưỡi và răng
 3. **Không rung dây thanh** — đây là âm vô thanh
@@ -41,6 +45,10 @@ Cả hai cách thay thế này đều sai và gây hiểu nhầm. Từ "three" (
 Từ ví dụ: **think**, **three**, **bath**, **thank**, **teeth**
 
 ### /ð/ — TH hữu thanh
+
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/ð.mp3" type="audio/mpeg" />
+</audio>
 
 1. Vị trí miệng **hoàn toàn giống /θ/** — lưỡi giữa hai răng
 2. Chỉ khác: **rung dây thanh quản** trong khi thổi hơi

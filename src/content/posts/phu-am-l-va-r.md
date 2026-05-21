@@ -40,6 +40,10 @@ draft: false
 
 ### /l/ — âm "l" bên
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/l.mp3" type="audio/mpeg" />
+</audio>
+
 1. **Đầu lưỡi chạm vào lợi trên** (phần lồi ngay sau răng cửa trên)
 2. Hai bên lưỡi không chạm vào đâu — luồng khí thoát ra **hai bên**
 3. Âm **hữu thanh**
@@ -48,6 +52,10 @@ draft: false
 Từ ví dụ: **light**, **left**, **hill**, **fall**, **play**
 
 ### /r/ — âm "r" Mỹ
+
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/r.mp3" type="audio/mpeg" />
+</audio>
 
 1. **Đầu lưỡi cong ra sau** hoặc co cụm — **không chạm vào đâu**
 2. Môi **hơi tròn lại**

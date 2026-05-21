@@ -33,6 +33,10 @@ draft: false
 
 ### Phương pháp 1 — Lưỡi cong (Retroflex)
 
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/r.mp3" type="audio/mpeg" />
+</audio>
+
 1. Miệng hơi mở, **môi hơi tròn lại**
 2. **Cong đầu lưỡi ra sau** — lưỡi không chạm vào vòm miệng
 3. Hai bên lưỡi chạm nhẹ vào các răng hàm trên

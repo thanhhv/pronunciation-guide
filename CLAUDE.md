@@ -117,6 +117,103 @@ Sounds that don't exist in Vietnamese or are frequently mispronounced:
 - Add tags/categories so readers can filter by: Vowels, Consonants, Stress, Intonation
 - Consider adding audio embed support (external links to Forvo or YouGlish)
 
+### Phase 5 — Complete IPA Coverage
+
+#### 5a — Missing Vowel: r-colored vowel
+
+| Post | Sound(s) | Example Words |
+|------|----------|---------------|
+| 19 | /ɜː/ (r-colored) | bird, word, nurse, first, her |
+
+#### 5b — Diphthongs (8 posts)
+
+Vietnamese has no diphthongs that glide the same way — all 8 are worth covering:
+
+| Post | Sound(s) | Example Words |
+|------|----------|---------------|
+| 20 | /eɪ/ | wait, name, face, day, rain |
+| 21 | /aɪ/ | my, time, night, fly, eye |
+| 22 | /ɔɪ/ | boy, coin, voice, join, oil |
+| 23 | /aʊ/ | cow, now, out, house, down |
+| 24 | /əʊ/ | show, go, home, stone, road |
+| 25 | /ɪə/ | here, near, ear, fear, beer |
+| 26 | /eə/ | hair, there, care, air, where |
+| 27 | /ʊə/ | tourist, pure, cure, sure |
+
+#### 5c — Missing Consonants
+
+| Post | Sound(s) | Example Words | Note |
+|------|----------|---------------|------|
+| 28 | /ʃ/ vs /ʒ/ | shall / television, shoe / measure | /ʒ/ rare but confusing |
+| 29 | /w/ vs /v/ | wet / vet, wine / vine | Vietnamese "v" ≠ English /v/ or /w/ |
+| 30 | /j/ | yes, year, you, yesterday | Often confused with /dʒ/ |
+| 31 | /h/ | hat, house, behind, ahead | Vietnamese "h" is different |
+
+**Skip for now** (not problematic for Vietnamese learners): /p/, /b/, /t/, /d/, /k/, /g/, /m/, /n/ — these exist in Vietnamese and transfer naturally. Covered in Phase 6.
+
+### Phase 6 — Complete Consonant Set (Completeness)
+
+For learners who want full IPA coverage. These sounds exist in Vietnamese so Vietnamese learners won't struggle — but they're still worth documenting for completeness and for learners from other backgrounds.
+
+| Post | Sound(s) | Example Words | Note |
+|------|----------|---------------|------|
+| 32 | /p/ vs /b/ | pea / boat, cap / cab | Voicing contrast; /p/ has aspiration in English |
+| 33 | /t/ vs /d/ | tea / dog, bat / bad | Aspiration on /t/; /d/ fully voiced |
+| 34 | /k/ vs /g/ | car / go, back / bag | Aspiration on /k/; /g/ fully voiced |
+| 35 | /m/ vs /n/ | man / now, sum / sun | Nasal contrast; both exist in Vietnamese |
+
+> **Note:** English /p/, /t/, /k/ are **aspirated** (a puff of air) at the start of stressed syllables — "pin" (/pʰɪn/) not "bin". This is a subtle but real difference that Vietnamese learners may overlook since Vietnamese aspiration works differently.
+
+### Phase 7 — Embed Audio Into All Posts
+
+All audio files are at `public/audio/`. Embed using this pattern directly in the `.md` file, placed right under each sound's `###` heading:
+
+```html
+<audio controls preload="none" style="height:36px;margin-bottom:12px">
+  <source src="/audio/FILENAME.mp3" type="audio/mpeg" />
+</audio>
+```
+
+#### Audio file → post mapping
+
+| Post file | Sound | Audio file(s) |
+|-----------|-------|---------------|
+| nguyen-am-i-ngan-va-dai | /ɪ/ / /iː/ | `i-ngan.mp3` / `i-dai.mp3` ✓ done |
+| nguyen-am-e-va-ae | /e/ / /æ/ | `e.mp3` / `ae.mp3` |
+| nguyen-am-a-ngan-va-dai | /ʌ/ / /ɑː/ | `a ngắn.mp3` / `a dài.mp3` |
+| nguyen-am-u-ngan-va-dai | /ʊ/ / /uː/ | `u ngắn.mp3` / `u dài.mp3` |
+| nguyen-am-o-va-o-dai | /ɒ/ / /ɔː/ | `o ngắn.mp3` / `o dài.mp3` |
+| nguyen-am-schwa | /ə/ | `ơ ngắn.mp3` |
+| phu-am-th-va-dh | /θ/ / /ð/ | `θ.mp3` / `ð.mp3` |
+| phu-am-v-va-f | /v/ / /f/ | `v.mp3` / `f.mp3` |
+| phu-am-z-va-s | /z/ / /s/ | `z.mp3` / `s.mp3` |
+| phu-am-r-kieu-my | /r/ | `r.mp3` |
+| phu-am-l-va-r | /l/ / /r/ | `l.mp3` / `r.mp3` |
+| phu-am-dj-va-ch | /dʒ/ / /tʃ/ | `dʒ.mp3` / `t∫.mp3` |
+| phu-am-ng | /ŋ/ | `η.mp3` |
+| *(Phase 5)* /ɜː/ | /ɜː/ | `ơ dài.mp3` |
+| *(Phase 5)* /eɪ/ | /eɪ/ | `ei.mp3` |
+| *(Phase 5)* /aɪ/ | /aɪ/ | `aɪ.mp3` |
+| *(Phase 5)* /ɔɪ/ | /ɔɪ/ | `oi.mp3` |
+| *(Phase 5)* /aʊ/ | /aʊ/ | `aʊ.mp3` |
+| *(Phase 5)* /əʊ/ | /əʊ/ | `əʊ.mp3` |
+| *(Phase 5)* /ɪə/ | /ɪə/ | `ie.mp3` |
+| *(Phase 5)* /eə/ | /eə/ | `ea.mp3` |
+| *(Phase 5)* /ʊə/ | /ʊə/ | `ʊə.mp3` |
+| *(Phase 5)* /ʃ/ vs /ʒ/ | /ʃ/ / /ʒ/ | `∫.mp3` / `ʒ.mp3` |
+| *(Phase 5)* /w/ vs /v/ | /w/ | `w.mp3` |
+| *(Phase 5)* /j/ | /j/ | `j.mp3` |
+| *(Phase 5)* /h/ | /h/ | `h.mp3` |
+| *(Phase 6)* /p/ vs /b/ | /p/ / /b/ | `p.mp3` / `b.mp3` |
+| *(Phase 6)* /t/ vs /d/ | /t/ / /d/ | `t.mp3` / `d.mp3` |
+| *(Phase 6)* /k/ vs /g/ | /k/ / /g/ | `k.mp3` / `g.mp3` |
+| *(Phase 6)* /m/ vs /n/ | /m/ / /n/ | `m.mp3` / `n.mp3` |
+
+#### Notes
+- File names with spaces or special characters (e.g. `a ngắn.mp3`, `ơ dài.mp3`) work fine in `src` attributes — browsers handle URL encoding automatically.
+- Phase 3 posts (stress, intonation) have no dedicated audio files — they don't correspond to single IPA sounds. Skip Phase 7 for those posts.
+- Embed audio immediately after the `### /X/` heading so the learner hears the sound before reading the instructions.
+
 ---
 
 ## Progress Log
@@ -129,6 +226,9 @@ Update this section after completing each phase or significant milestone.
 [2026-05-25] — Phase 2 complete. 7 consonant posts published (phu-am-*).
 [2026-06-01] — Phase 3 complete. 5 stress & connected speech posts published (trong-am-*, noi-lien-am, am-giam-*, ngu-dieu-*).
 [2026-06-05] — Phase 4 complete. "Start Here" page at /start-here, "Bắt Đầu" added to main nav, Ngữ Điệu category separated. Total: 18 posts.
+[2026-05-21] — Phase 5 complete. 13 new posts: /ɜː/, 8 diphthongs (/eɪ/ /aɪ/ /ɔɪ/ /aʊ/ /əʊ/ /ɪə/ /eə/ /ʊə/), 4 consonants (/ʃ//ʒ/, /w/, /j/, /h/). Total: 31 posts.
+[2026-05-21] — Phase 6 complete. 4 posts: /p//b/, /t//d/, /k//g/, /m//n/. Full IPA coverage achieved. Total: 35 posts.
+[2026-05-21] — Phase 7 complete. Audio embeds added to all Phase 1–2 posts (12 posts). All Phase 5 posts already included audio. Full site now has inline audio players for all IPA sound posts.
 ```
 
 ---
