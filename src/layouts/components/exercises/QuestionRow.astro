@@ -1,0 +1,35 @@
+---
+import type { Question } from "@/data/exercises";
+
+interface Props {
+  question: Question;
+}
+
+const { question } = Astro.props;
+---
+
+<div class="flex flex-col sm:flex-row sm:items-center gap-3 py-4 border-b border-border">
+  <span class="text-dark font-semibold text-lg sm:w-28 sm:shrink-0">
+    {question.word}
+  </span>
+
+  <div class="flex flex-wrap gap-2 flex-1">
+    {
+      question.options.map((opt) => (
+        <button
+          class="rounded-lg border border-primary text-primary bg-transparent px-4 py-2 text-sm font-semibold transition cursor-pointer hover:bg-primary hover:text-white"
+          type="button"
+        >
+          {opt}
+        </button>
+      ))
+    }
+  </div>
+
+  <button
+    class="rounded-lg border border-border text-text px-3 py-2 text-sm font-semibold transition cursor-pointer hover:border-primary hover:text-primary sm:shrink-0"
+    type="button"
+  >
+    Hiện IPA
+  </button>
+</div>

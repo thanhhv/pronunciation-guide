@@ -1,0 +1,22 @@
+---
+import Base from "@/layouts/Base.astro";
+import ExerciseSet from "@/components/exercises/ExerciseSet.astro";
+import { exerciseSets } from "@/data/exercises";
+---
+
+<Base
+  title="Bài Tập Luyện Phát Âm"
+  meta_title="Bài Tập Phân Biệt IPA | Pronunciation Guide"
+  description="Luyện phân biệt các âm IPA tiếng Anh qua bài tập trắc nghiệm. Dành cho người học Việt Nam."
+>
+  <section class="section">
+    <div class="container">
+      <h1 class="page-heading">Bài Tập Luyện Phát Âm</h1>
+      <p class="text-center text-text mb-16 max-w-xl mx-auto">
+        Chọn ký hiệu IPA đúng cho mỗi từ. Dùng nút <strong class="text-dark">Hiện IPA</strong> nếu cần gợi ý, rồi nhấn <strong class="text-dark">Kiểm tra kết quả</strong> khi hoàn thành.
+      </p>
+
+      {exerciseSets.map((set) => <ExerciseSet set={set} />)}
+    </div>
+  </section>
+</Base>

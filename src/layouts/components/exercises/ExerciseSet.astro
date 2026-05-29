@@ -1,0 +1,25 @@
+---
+import type { ExerciseSet } from "@/data/exercises";
+import QuestionRow from "@/components/exercises/QuestionRow.astro";
+
+interface Props {
+  set: ExerciseSet;
+}
+
+const { set } = Astro.props;
+---
+
+<div class="mb-12">
+  <h2 class="text-h3 font-bold text-dark mb-2">{set.title}</h2>
+  <p class="text-text mb-8">{set.description}</p>
+
+  <div>
+    {set.questions.map((question) => <QuestionRow question={question} />)}
+  </div>
+
+  <div class="mt-8 flex justify-end">
+    <button class="btn btn-primary" type="button">
+      Kiểm tra kết quả
+    </button>
+  </div>
+</div>
