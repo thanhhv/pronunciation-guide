@@ -21,10 +21,41 @@ input#nav-toggle:checked ~ #nav-menu {
   @apply rounded-md border-border py-3 text-text focus:border-primary focus:ring-transparent;
 }
 
+/* exercise animations */
+@keyframes exercise-fade-in {
+  from { opacity: 0; transform: translateY(-3px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.ipa-reveal:not(.hidden) {
+  animation: exercise-fade-in 0.18s ease-out;
+}
+
+.score-display:not(.hidden) {
+  animation: exercise-fade-in 0.22s ease-out;
+}
+
+/* score display state variants */
+.score-display[data-state="result"] {
+  @apply text-text-dark font-semibold;
+}
+
+.score-display[data-state="empty"] {
+  @apply text-text italic;
+}
+
 /* exercise option button — selected state driven by aria-pressed */
 .option-btn[aria-pressed="true"] {
   @apply bg-primary text-white border-primary;
 }
 .option-btn[aria-pressed="true"]:hover {
   @apply bg-primary text-white;
+}
+
+/* exercise option button — correct + locked (green) */
+.option-btn[data-correct="true"] {
+  @apply bg-green-600 text-white border-green-600 cursor-default;
+}
+.option-btn[data-correct="true"]:hover {
+  @apply bg-green-600 text-white;
 }

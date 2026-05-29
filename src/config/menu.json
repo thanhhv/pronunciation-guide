@@ -9,6 +9,10 @@
       "url": "/start-here"
     },
     {
+      "name": "Bài Tập",
+      "url": "/exercises"
+    },
+    {
       "name": "About",
       "url": "/about"
     }

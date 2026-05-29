@@ -17,24 +17,113 @@ const { set } = Astro.props;
     {set.questions.map((question) => <QuestionRow question={question} />)}
   </div>
 
-  <div class="mt-8 flex justify-end">
-    <button class="btn btn-primary" type="button">
+  <div
+    class="score-display hidden mt-6 px-5 py-4 rounded-lg bg-light border border-border"
+    role="status"
+    aria-live="polite"
+    aria-atomic="true"
+  >
+  </div>
+
+  <div class="mt-6 flex gap-3 justify-end">
+    <button
+      class="reset-btn btn border-border text-text hidden hover:border-primary hover:text-primary"
+      type="button"
+    >
+      Làm lại
+    </button>
+    <button class="check-btn btn btn-primary" type="button">
       Kiểm tra kết quả
     </button>
   </div>
 </div>
 
 <script>
+  function checkResults(setEl: HTMLElement) {
+    const rows = setEl.querySelectorAll<HTMLElement>(".question-row");
+    const scoreDisplay = setEl.querySelector<HTMLElement>(".score-display");
+    const resetBtn = setEl.querySelector<HTMLElement>(".reset-btn");
+
+    const hasAnySelection = [...rows].some(
+      (row) =>
+        row.dataset.locked === "true" ||
+        row.querySelector<HTMLElement>('.option-btn[aria-pressed="true"]'),
+    );
+
+    if (!hasAnySelection) {
+      if (scoreDisplay) {
+        scoreDisplay.dataset.state = "empty";
+        scoreDisplay.textContent = "Hãy chọn ít nhất một đáp án trước khi kiểm tra.";
+        scoreDisplay.classList.remove("hidden");
+      }
+      return;
+    }
+
+    let correct = 0;
+    const total = rows.length;
+
+    rows.forEach((row) => {
+      if (row.dataset.locked === "true") {
+        correct++;
+        return;
+      }
+      const selected = row.querySelector<HTMLElement>('.option-btn[aria-pressed="true"]');
+      if (!selected) return;
+
+      if (selected.dataset.value === row.dataset.answer) {
+        selected.setAttribute("data-correct", "true");
+        row.dataset.locked = "true";
+        correct++;
+      }
+    });
+
+    const pct = Math.round((correct / total) * 100);
+
+    if (scoreDisplay) {
+      scoreDisplay.dataset.state = "result";
+      scoreDisplay.textContent = `Bạn trả lời đúng ${correct}/${total} câu (${pct}%)`;
+      scoreDisplay.classList.remove("hidden");
+    }
+    if (resetBtn) resetBtn.classList.remove("hidden");
+  }
+
+  function resetExercise(setEl: HTMLElement) {
+    setEl.querySelectorAll<HTMLElement>(".question-row").forEach((row) => {
+      delete row.dataset.locked;
+      row.querySelectorAll<HTMLElement>(".option-btn").forEach((b) => {
+        b.setAttribute("aria-pressed", "false");
+        b.removeAttribute("data-correct");
+      });
+      const reveal = row.querySelector<HTMLElement>(".ipa-reveal");
+      if (reveal) {
+        reveal.textContent = "";
+        reveal.classList.add("hidden");
+      }
+      const showIpaBtn = row.querySelector<HTMLElement>(".show-ipa-btn");
+      if (showIpaBtn) {
+        showIpaBtn.setAttribute("aria-expanded", "false");
+        showIpaBtn.textContent = "Hiện IPA";
+      }
+    });
+
+    const scoreDisplay = setEl.querySelector<HTMLElement>(".score-display");
+    const resetBtn = setEl.querySelector<HTMLElement>(".reset-btn");
+    if (scoreDisplay) {
+      delete scoreDisplay.dataset.state;
+      scoreDisplay.classList.add("hidden");
+    }
+    if (resetBtn) resetBtn.classList.add("hidden");
+  }
+
   function initExerciseSets() {
     document.querySelectorAll<HTMLElement>(".exercise-set").forEach((setEl) => {
-      // Remove old listener before attaching to avoid duplicates on navigation
       const handler = (e: Event) => {
         const btn = (e.target as HTMLElement).closest("button");
         if (!btn) return;
 
         if (btn.classList.contains("option-btn")) {
           const row = btn.closest<HTMLElement>(".question-row");
-          if (!row) return;
+          if (!row || row.dataset.locked === "true") return;
           row.querySelectorAll<HTMLElement>(".option-btn").forEach((b) => {
             b.setAttribute("aria-pressed", "false");
           });
@@ -60,6 +149,14 @@ const { set } = Astro.props;
             btn.setAttribute("aria-expanded", "true");
             btn.textContent = "Ẩn IPA";
           }
+        }
+
+        if (btn.classList.contains("check-btn")) {
+          checkResults(setEl);
+        }
+
+        if (btn.classList.contains("reset-btn")) {
+          resetExercise(setEl);
         }
       };
 
