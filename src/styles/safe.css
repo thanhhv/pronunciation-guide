@@ -20,3 +20,11 @@ input#nav-toggle:checked ~ #nav-menu {
 .form-textarea {
   @apply rounded-md border-border py-3 text-text focus:border-primary focus:ring-transparent;
 }
+
+/* exercise option button — selected state driven by aria-pressed */
+.option-btn[aria-pressed="true"] {
+  @apply bg-primary text-white border-primary;
+}
+.option-btn[aria-pressed="true"]:hover {
+  @apply bg-primary text-white;
+}

@@ -9,7 +9,7 @@ interface Props {
 const { set } = Astro.props;
 ---
 
-<div class="mb-12">
+<div class="exercise-set mb-12" id={`set-${set.id}`}>
   <h2 class="text-h3 font-bold text-dark mb-2">{set.title}</h2>
   <p class="text-text mb-8">{set.description}</p>
 
@@ -23,3 +23,52 @@ const { set } = Astro.props;
     </button>
   </div>
 </div>
+
+<script>
+  function initExerciseSets() {
+    document.querySelectorAll<HTMLElement>(".exercise-set").forEach((setEl) => {
+      // Remove old listener before attaching to avoid duplicates on navigation
+      const handler = (e: Event) => {
+        const btn = (e.target as HTMLElement).closest("button");
+        if (!btn) return;
+
+        if (btn.classList.contains("option-btn")) {
+          const row = btn.closest<HTMLElement>(".question-row");
+          if (!row) return;
+          row.querySelectorAll<HTMLElement>(".option-btn").forEach((b) => {
+            b.setAttribute("aria-pressed", "false");
+          });
+          btn.setAttribute("aria-pressed", "true");
+        }
+
+        if (btn.classList.contains("show-ipa-btn")) {
+          const row = btn.closest<HTMLElement>(".question-row");
+          if (!row) return;
+          const reveal = row.querySelector<HTMLElement>(".ipa-reveal");
+          if (!reveal) return;
+          const ipa = btn.dataset.ipa ?? "";
+          const isShowing = btn.getAttribute("aria-expanded") === "true";
+
+          if (isShowing) {
+            reveal.textContent = "";
+            reveal.classList.add("hidden");
+            btn.setAttribute("aria-expanded", "false");
+            btn.textContent = "Hiện IPA";
+          } else {
+            reveal.textContent = ipa;
+            reveal.classList.remove("hidden");
+            btn.setAttribute("aria-expanded", "true");
+            btn.textContent = "Ẩn IPA";
+          }
+        }
+      };
+
+      if (setEl.dataset.exerciseInit) return;
+      setEl.dataset.exerciseInit = "1";
+      setEl.addEventListener("click", handler);
+    });
+  }
+
+  initExerciseSets();
+  document.addEventListener("astro:after-swap", initExerciseSets);
+</script>
