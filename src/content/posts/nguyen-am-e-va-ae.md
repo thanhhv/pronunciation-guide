@@ -5,7 +5,7 @@ description: "Học cách phân biệt /ɛ/ (như trong 'bed') và /æ/ (như tr
 date: "2026-06-17"
 image: "https://placehold.co/600x400/15803d/ffffff?text=/ɛ/+vs+/æ/"
 categories: ["Nguyên Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["nguyên âm", "e", "ae"]
 draft: false
 ---

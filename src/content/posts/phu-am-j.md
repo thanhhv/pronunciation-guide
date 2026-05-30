@@ -5,7 +5,7 @@ description: "Khám phá âm /j/ — âm 'y' trong yes, you, year — và cả �
 date: "2026-05-20"
 image: "https://placehold.co/600x400/166534/ffffff?text=/j/+yes"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "j", "y sound", "consonants"]
 draft: false
 ---

@@ -5,7 +5,7 @@ description: "Học các quy tắc đặt trọng âm trong từ tiếng Anh —
 date: "2026-06-05"
 image: "https://placehold.co/600x400/1e3a5f/ffffff?text=Word+STRESS"
 categories: ["Trọng Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["trọng âm", "word stress", "nhịp điệu"]
 draft: false
 ---

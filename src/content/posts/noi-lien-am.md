@@ -5,7 +5,7 @@ description: "Học cách nối âm (linking) trong tiếng Anh — bí mật gi
 date: "2026-06-03"
 image: "https://placehold.co/600x400/004d40/ffffff?text=Linking+Sounds"
 categories: ["Trọng Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["nối âm", "linking", "connected speech", "wanna", "gonna"]
 draft: false
 ---

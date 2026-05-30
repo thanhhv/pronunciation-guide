@@ -5,7 +5,7 @@ description: "Học cách phát âm /r/ kiểu Mỹ đúng chuẩn — không tr
 date: "2026-06-09"
 image: "https://placehold.co/600x400/1e40af/ffffff?text=/r/+kieu+My"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "r", "tiếng Anh Mỹ", "consonants"]
 draft: false
 ---

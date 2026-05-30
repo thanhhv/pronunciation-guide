@@ -5,7 +5,7 @@ description: "Học cách phát âm /m/ (man, sum) và /n/ (now, sun) — hai â
 date: "2026-05-15"
 image: "https://placehold.co/600x400/0891b2/ffffff?text=/m/+vs+/n/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "m", "n", "âm mũi"]
 draft: false
 ---

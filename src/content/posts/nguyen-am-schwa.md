@@ -5,7 +5,7 @@ description: "Tìm hiểu về schwa /ə/ — nguyên âm phổ biến nhất tr
 date: "2026-06-13"
 image: "https://placehold.co/600x400/0891b2/ffffff?text=Schwa+/ə/"
 categories: ["Nguyên Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["nguyên âm", "schwa", "âm giảm", "trọng âm"]
 draft: false
 ---
@@ -36,7 +36,7 @@ Không! Tiếng Việt không có khái niệm "vowel reduction" — mỗi âm t
 ### /ə/ — Schwa
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">
-  <source src="/audio/ơ ngắn.mp3" type="audio/mpeg" />
+  <source src="/audio/schwa.mp3" type="audio/mpeg" />
 </audio>
 
 1. Miệng **hơi hé mở**, hàm thư giãn hoàn toàn

@@ -39,7 +39,8 @@ const fontsConfig = Object.entries(theme.fonts.font_family)
       cssVariable: `--font-${key}`,
       provider: fontProviders.google(),
       weights,
-      subsets: ["latin", "latin-ext", "vietnamese"],
+      subsets: ["latin", "vietnamese"],
+      styles: ["normal"],
       display: "swap",
       fallbacks: [fallback],
     };

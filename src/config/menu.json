@@ -1,12 +1,12 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
       "name": "Start Here",
       "url": "/start-here"
+    },
+    {
+      "name": "Posts",
+      "url": "/"
     },
     {
       "name": "Exercises",

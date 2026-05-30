@@ -5,7 +5,7 @@ description: "Học cách phát âm /t/ (ten, time) và /d/ (den, dime) — bao 
 date: "2026-05-17"
 image: "https://placehold.co/600x400/dc2626/ffffff?text=/t/+vs+/d/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "t", "d", "bật hơi"]
 draft: false
 ---

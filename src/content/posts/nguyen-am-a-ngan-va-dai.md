@@ -5,7 +5,7 @@ description: "Học cách phát âm /ʌ/ (như trong 'cut', 'bus') và /ɑː/ (n
 date: "2026-06-16"
 image: "https://placehold.co/600x400/b45309/ffffff?text=/ʌ/+vs+/ɑː/"
 categories: ["Nguyên Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["nguyên âm", "a ngắn", "a dài"]
 draft: false
 ---
@@ -29,7 +29,7 @@ draft: false
 ### /ʌ/ — âm "ă" trung
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">
-  <source src="/audio/a ngắn.mp3" type="audio/mpeg" />
+  <source src="/audio/a-ngan.mp3" type="audio/mpeg" />
 </audio>
 
 1. Miệng **hơi mở**, hàm dưới hạ nhẹ
@@ -43,7 +43,7 @@ Từ ví dụ: **cut**, **bus**, **run**, **sun**, **fun**
 ### /ɑː/ — âm "a" dài
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">
-  <source src="/audio/a dài.mp3" type="audio/mpeg" />
+  <source src="/audio/a-dai.mp3" type="audio/mpeg" />
 </audio>
 
 1. **Mở miệng rộng nhất có thể** — hàm dưới hạ thấp hơn tất cả các nguyên âm khác

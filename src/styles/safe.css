@@ -59,3 +59,4 @@ input#nav-toggle:checked ~ #nav-menu {
 .option-btn[data-correct="true"]:hover {
   @apply bg-green-600 text-white;
 }
+

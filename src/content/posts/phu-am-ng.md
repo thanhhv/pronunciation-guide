@@ -5,7 +5,7 @@ description: "Học cách phát âm /ŋ/ đúng chuẩn trong 'sing', 'running',
 date: "2026-06-06"
 image: "https://placehold.co/600x400/831843/ffffff?text=/ŋ/+ng"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "ng", "nasal", "consonants"]
 draft: false
 ---

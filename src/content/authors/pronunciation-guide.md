@@ -1,6 +1,6 @@
 ---
-title: Pronunciation Guide
-meta_title: "Pronunciation Guide"
+title: Pronify Team
+meta_title: "Pronify Team"
 image: /images/authors/pronunciation-guide.png
 description: Hướng dẫn phát âm tiếng Anh chuẩn dành cho người Việt.
 

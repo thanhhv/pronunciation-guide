@@ -5,7 +5,7 @@ description: "Học cách phân biệt /l/ (light) và /r/ (right) — cặp âm
 date: "2026-06-08"
 image: "https://placehold.co/600x400/166534/ffffff?text=/l/+vs+/r/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "l", "r", "consonants"]
 draft: false
 ---

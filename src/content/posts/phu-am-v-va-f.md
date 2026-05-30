@@ -5,7 +5,7 @@ description: "Học cách phát âm /f/ và /v/ đúng chuẩn — đặc biệt
 date: "2026-06-11"
 image: "https://placehold.co/600x400/7e22ce/ffffff?text=/v/+vs+/f/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "v", "f", "consonants"]
 draft: false
 ---

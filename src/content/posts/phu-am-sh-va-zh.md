@@ -5,7 +5,7 @@ description: "Học cách phát âm /ʃ/ (shall, shoe, fish) và /ʒ/ (measure, 
 date: "2026-05-22"
 image: "https://placehold.co/600x400/0369a1/ffffff?text=/ʃ/+vs+/ʒ/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "sh", "zh", "consonants"]
 draft: false
 ---

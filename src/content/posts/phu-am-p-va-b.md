@@ -5,7 +5,7 @@ description: "Học cách phát âm /p/ (pen, park) và /b/ (bay, cab) — hiể
 date: "2026-05-18"
 image: "https://placehold.co/600x400/7c3aed/ffffff?text=/p/+vs+/b/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "p", "b", "bật hơi"]
 draft: false
 ---

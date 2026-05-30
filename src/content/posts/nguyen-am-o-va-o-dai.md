@@ -5,7 +5,7 @@ description: "Học cách phân biệt /ɒ/ (như trong 'hot', 'stop') và /ɔː
 date: "2026-06-14"
 image: "https://placehold.co/600x400/dc2626/ffffff?text=/ɒ/+vs+/ɔː/"
 categories: ["Nguyên Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["nguyên âm", "o ngắn", "o dài"]
 draft: false
 ---
@@ -33,7 +33,7 @@ draft: false
 ### /ɒ/ — âm "o" ngắn
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">
-  <source src="/audio/o ngắn.mp3" type="audio/mpeg" />
+  <source src="/audio/o-ngan.mp3" type="audio/mpeg" />
 </audio>
 
 1. **Mở miệng rộng** — hàm dưới hạ thấp hơn so với âm "o" tiếng Việt
@@ -47,7 +47,7 @@ Từ ví dụ: **hot**, **cot**, **lot**, **stop**, **clock**
 ### /ɔː/ — âm "aw" dài
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">
-  <source src="/audio/o dài.mp3" type="audio/mpeg" />
+  <source src="/audio/o-dai.mp3" type="audio/mpeg" />
 </audio>
 
 1. Miệng mở **vừa phải** — không quá rộng như /ɒ/

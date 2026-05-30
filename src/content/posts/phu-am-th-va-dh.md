@@ -5,7 +5,7 @@ description: "Học cách phát âm /θ/ (think, bath) và /ð/ (this, bathe) �
 date: "2026-06-12"
 image: "https://placehold.co/600x400/0f766e/ffffff?text=/θ/+vs+/ð/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "th", "consonants"]
 draft: false
 ---

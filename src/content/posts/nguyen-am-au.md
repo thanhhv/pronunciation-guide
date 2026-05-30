@@ -5,7 +5,7 @@ description: "Học cách phát âm nguyên âm đôi /aʊ/ — âm kết hợp 
 date: "2026-05-27"
 image: "https://placehold.co/600x400/1e40af/ffffff?text=/aʊ/"
 categories: ["Nguyên Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["nguyên âm", "nguyên âm đôi", "diphthong", "au"]
 draft: false
 ---

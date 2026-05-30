@@ -5,7 +5,7 @@ description: "Học các kiểu ngữ điệu trong tiếng Anh — lên, xuốn
 date: "2026-06-01"
 image: "https://placehold.co/600x400/2d4a00/ffffff?text=Intonation"
 categories: ["Ngữ Điệu"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["ngữ điệu", "intonation", "giọng điệu", "lên giọng", "xuống giọng"]
 draft: false
 ---

@@ -5,7 +5,7 @@ description: "Học cách phát âm /s/ và /z/ — đặc biệt là /z/ cuối
 date: "2026-06-10"
 image: "https://placehold.co/600x400/b91c1c/ffffff?text=/z/+vs+/s/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "z", "s", "consonants"]
 draft: false
 ---

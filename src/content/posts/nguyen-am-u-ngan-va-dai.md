@@ -5,7 +5,7 @@ description: "Học cách phân biệt /ʊ/ ngắn (foot, book) và /uː/ dài (
 date: "2026-06-15"
 image: "https://placehold.co/600x400/7c3aed/ffffff?text=/ʊ/+vs+/uː/"
 categories: ["Nguyên Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["nguyên âm", "u ngắn", "u dài"]
 draft: false
 ---
@@ -29,7 +29,7 @@ draft: false
 ### /ʊ/ — âm "u" ngắn
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">
-  <source src="/audio/u ngắn.mp3" type="audio/mpeg" />
+  <source src="/audio/u-ngan.mp3" type="audio/mpeg" />
 </audio>
 
 1. Môi **tròn nhẹ** — không chúm quá nhiều
@@ -43,7 +43,7 @@ Từ ví dụ: **foot**, **book**, **good**, **wood**, **full**
 ### /uː/ — âm "u" dài
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">
-  <source src="/audio/u dài.mp3" type="audio/mpeg" />
+  <source src="/audio/u-dai.mp3" type="audio/mpeg" />
 </audio>
 
 1. Môi **tròn và chúm lại rõ ràng**

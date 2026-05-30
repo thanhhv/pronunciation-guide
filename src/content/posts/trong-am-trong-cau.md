@@ -5,7 +5,7 @@ description: "Học cách người bản ngữ nhấn trọng âm trong câu —
 date: "2026-06-04"
 image: "https://placehold.co/600x400/3d0066/ffffff?text=Sentence+STRESS"
 categories: ["Trọng Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["trọng âm", "sentence stress", "nhịp điệu", "content words"]
 draft: false
 ---

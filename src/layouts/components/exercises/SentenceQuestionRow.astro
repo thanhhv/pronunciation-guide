@@ -7,6 +7,9 @@ interface Props {
 
 const { question } = Astro.props;
 const labels = ["A", "B", "C", "D"];
+
+// Shuffle so the correct answer isn't always option A
+const shuffledOptions = [...question.options].sort(() => Math.random() - 0.5);
 ---
 
 <div
@@ -19,7 +22,7 @@ const labels = ["A", "B", "C", "D"];
   </p>
   <div class="flex flex-col gap-2">
     {
-      question.options.map((opt, i) => (
+      shuffledOptions.map((opt, i) => (
         <button
           class="option-btn w-full text-left rounded-lg border border-border px-4 py-3 text-sm transition cursor-pointer hover:border-primary hover:text-primary"
           type="button"

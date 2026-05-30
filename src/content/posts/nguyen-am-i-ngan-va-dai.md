@@ -5,7 +5,7 @@ description: "Học cách phân biệt âm /ɪ/ ngắn và /iː/ dài — cặp 
 date: "2026-06-18"
 image: "https://placehold.co/600x400/1d4ed8/ffffff?text=/ɪ/+vs+/iː/"
 categories: ["Nguyên Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["nguyên âm", "i ngắn", "i dài"]
 draft: false
 ---

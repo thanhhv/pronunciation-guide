@@ -5,7 +5,7 @@ description: "Học cách phân biệt /tʃ/ (church, cheap) và /dʒ/ (job, jud
 date: "2026-06-07"
 image: "https://placehold.co/600x400/92400e/ffffff?text=/dʒ/+vs+/tʃ/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "j", "ch", "consonants"]
 draft: false
 ---

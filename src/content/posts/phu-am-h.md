@@ -5,7 +5,7 @@ description: "Học cách phát âm /h/ đúng trong tiếng Anh — và quan tr
 date: "2026-05-19"
 image: "https://placehold.co/600x400/78350f/ffffff?text=/h/+hat"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "h", "consonants"]
 draft: false
 ---

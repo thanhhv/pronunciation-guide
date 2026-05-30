@@ -86,6 +86,8 @@ const { title, description, authors, categories, image, date, tags } =
               width={1000}
               alt={title}
               class="rounded-lg max-h-[280px] w-full object-cover"
+              loading="eager"
+              fetchpriority="high"
             />
           )
         }

@@ -5,7 +5,7 @@ description: "Học cách phân biệt /w/ (wine, wet, swim) và /v/ (van, vine,
 date: "2026-05-21"
 image: "https://placehold.co/600x400/7e22ce/ffffff?text=/w/+vs+/v/"
 categories: ["Phụ Âm"]
-authors: ["pronunciation-guide"]
+authors: ["Pronify Team"]
 tags: ["phụ âm", "w", "v", "consonants"]
 draft: false
 ---
