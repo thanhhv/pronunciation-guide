@@ -1,6 +1,5 @@
 ---
 import Base from "@/layouts/Base.astro";
-import ExerciseSet from "@/components/exercises/ExerciseSet.astro";
 import { exerciseSets } from "@/data/exercises";
 ---
 
@@ -9,14 +8,38 @@ import { exerciseSets } from "@/data/exercises";
   meta_title="Bài Tập Phân Biệt IPA | Pronunciation Guide"
   description="Luyện phân biệt các âm IPA tiếng Anh qua bài tập trắc nghiệm. Dành cho người học Việt Nam."
 >
-  <section class="section">
+  <section class="section !pt-10">
     <div class="container">
       <h1 class="page-heading">Bài Tập Luyện Phát Âm</h1>
       <p class="text-center text-text mb-16 max-w-xl mx-auto">
-        Chọn ký hiệu IPA đúng cho mỗi từ. Dùng nút <strong class="text-dark">Hiện IPA</strong> nếu cần gợi ý, rồi nhấn <strong class="text-dark">Kiểm tra kết quả</strong> khi hoàn thành.
+        Chọn một bài tập để bắt đầu luyện phân biệt âm IPA. Mỗi bài gồm 15 câu hỏi trắc nghiệm.
       </p>
 
-      {exerciseSets.map((set) => <ExerciseSet set={set} />)}
+      <div class="row gy-5 gx-4">
+        {
+          exerciseSets.map((set) => (
+            <div class="col-12 sm:col-6">
+              <a
+                href={`/exercises/${set.id}`}
+                class="group flex flex-col h-full rounded-lg border border-border p-6 transition-colors hover:border-primary"
+              >
+                <h2 class="text-h4 font-bold text-dark mb-3 transition-colors group-hover:text-primary">
+                  {set.title}
+                </h2>
+                <p class="text-text text-sm flex-1 mb-5">{set.description}</p>
+                <div class="flex items-center justify-between">
+                  <span class="text-xs text-text-light font-medium">
+                    {set.questions.length} câu hỏi
+                  </span>
+                  <span class="text-primary text-sm font-semibold group-hover:underline">
+                    Bắt đầu →
+                  </span>
+                </div>
+              </a>
+            </div>
+          ))
+        }
+      </div>
     </div>
   </section>
 </Base>

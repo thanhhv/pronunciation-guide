@@ -1,0 +1,44 @@
+---
+import Base from "@/layouts/Base.astro";
+import ExerciseSet from "@/components/exercises/ExerciseSet.astro";
+import { exerciseSets } from "@/data/exercises";
+import type { ExerciseSet as ExerciseSetType } from "@/data/exercises";
+
+export function getStaticPaths() {
+  return exerciseSets.map((set) => ({
+    params: { id: set.id },
+    props: { set },
+  }));
+}
+
+interface Props {
+  set: ExerciseSetType;
+}
+
+const { set } = Astro.props;
+---
+
+<Base
+  title={set.title}
+  meta_title={`${set.title} | Bài Tập Phát Âm`}
+  description={set.description}
+>
+  <section class="section !pt-10">
+    <div class="container">
+      <div class="mb-8">
+        <a
+          href="/exercises"
+          class="text-sm font-medium text-primary transition-colors hover:text-dark"
+        >
+          ← Tất cả bài tập
+        </a>
+      </div>
+
+      <p class="text-center text-text mb-12 max-w-xl mx-auto">
+        Chọn ký hiệu IPA đúng cho mỗi từ. Dùng nút <strong class="text-dark">Hiện IPA</strong> nếu cần gợi ý, rồi nhấn <strong class="text-dark">Kiểm tra kết quả</strong> khi hoàn thành.
+      </p>
+
+      <ExerciseSet set={set} />
+    </div>
+  </section>
+</Base>
