@@ -360,3 +360,140 @@ After writing each set, all 4 distractors per question were reviewed against the
 ### Homophone reference (avoid as distractors)
 These common pairs share identical British RP IPA — never use one as a distractor for the other:
 `rain`/`reign`, `weather`/`whether`, `morning`/`mourning`, `night`/`knight`, `meet`/`meat`, `sea`/`see`, `sale`/`sail`, `floor`/`flaw`, `here`/`hear`, `there`/`their`/`they're`
+
+---
+
+## Pedagogical Review — 2026-05-30
+
+### Curriculum strengths
+
+- **Core vowel pairs are covered correctly and first.** The two highest-priority sets for Vietnamese learners — `/ɪ/ vs /iː/` and `/e/ vs /æ/` — open the sound exercises. This matches the blog's Phase 1 priority order and gives learners the highest-yield practice up front.
+- **Consistent minimal-pair structure within sets.** Each binary contrast set (e.g. `i-ngan-vs-i-dai`, `e-va-ae`, `th-va-dh`) alternates the two target sounds question by question. This call-and-response rhythm is effective for discrimination training.
+- **Mixed-vowel consolidation sets are well-placed.** `mixed-e-family` and `mixed-short-vowels` appear after their constituent pairs have been drilled individually, functioning correctly as review/consolidation rather than introduction.
+- **Centering diphthongs grouped together.** Grouping `/ɪə/ · /eə/ · /ʊə/` in a single set (`centering-diphthongs`) is pedagogically sound — these three share the same schwa glide and benefit from being distinguished together.
+- **Sentence exercise distractors are phonetically honest.** Distractors consistently target real phonetic confusions (vowel swaps, consonant swaps, cluster changes) rather than semantic or grammatical traps. This is the correct approach for IPA reading practice.
+- **Topic breadth of sentence sets.** Shopping, travel, daily life, and restaurants cover the four situational domains most likely to matter to a Vietnamese learner preparing for real-world use. All four topics are B1-appropriate.
+
+---
+
+### Ordering issues
+
+**1. `/θ/ vs /ð/` and `/l/ vs /r/` appear before Phase 1 vowel pairs are complete (sets 3 and 4 in the array).**
+
+The current array order is: `/ɪ/ vs /iː/` → `/e/ vs /æ/` → `/θ/ vs /ð/` → `/l/ vs /r/` → `/ʌ/ vs /ɑː/` → `/ʊ/ vs /uː/` → `/ɒ/ vs /ɔː/`. This means the consonant sets `th-va-dh` and `l-va-r` are sandwiched inside the vowel series, breaking the logical Phase 1 → Phase 2 progression described in the blog's own implementation plan. Learners navigating the exercise list will encounter two consonant drills before finishing core vowels. Recommended fix: move `th-va-dh` and `l-va-r` to after `o-ngan-vs-o-dai` (after all six Phase 1 vowels are complete).
+
+**2. `/ɜː/ vs /ɔː/` (`er-vs-or`) appears before the diphthong sets, but `/ɜː/` is a Phase 5 sound.**
+
+The two r-colored/long vowel sets (`er-vs-or` and `mixed-e-family`) are placed in the "Phase 2 — Advanced Vowels" comment block before all eight diphthong sets. This is reasonable as a progression (monophthongs before diphthongs), so the placement is defensible — but the set title comment "Phase 2" is misleading since `/ɜː/` is actually introduced in Phase 5 of the blog. No action required on the ordering itself, but the comment label should eventually be updated to "Phase 5 — r-colored vowel" to avoid confusion.
+
+**3. Within `i-ngan-vs-i-dai`, Q15 (`wick`) is noticeably harder than Q1–Q14.**
+
+All 14 preceding words are high-frequency (ship, sheep, bit, beat, sit, seat, live, leave, hit, heat, dip, deep, fit, feet). "Wick" (a candle wick) is B2–C1 vocabulary at best, and because it has no common /iː/ counterpart in the set, it functions as an isolated harder question rather than a minimal-pair contrast. Suggested replacement: `will` (→ keeps the /ɪ/ answer, B1 word, pairs naturally with `wheel` if a 16th question were ever added).
+
+**4. Within `z-va-s`, Q5 (`zeal`) is considerably harder than the surrounding questions.**
+
+Q1–Q4 use `zip`, `sip`, `zoo`, `sue` — all high-frequency words. `Zeal` is C1 vocabulary that many B1–B2 Vietnamese learners will not know, making the question a vocabulary test rather than a phonetic discrimination test. Suggested replacement: `zone` (already appears at Q15 — so use `zero` or `zoom` instead) or `zip code` is too long; `zap` (B2, informal but recognizable) would work. Note: `zone` already exists at Q15, so avoid duplication — `zoom` is a strong replacement for `zeal`.
+
+**5. Within `dj-vs-ch`, Q5 (`gin`) may confuse learners.**
+
+"Gin" is a word most Vietnamese learners know only as the alcoholic drink, not as a phonetic example. More importantly, the spelling G-I-N producing /dʒ/ contradicts the learner's likely expectation (they expect G to say /g/). This makes it a spelling-trap question more than a phonetic one. Suggested replacement: `gem` or `general` (if multi-syllable words are acceptable) — both clearly demonstrate the /dʒ/ sound without the spelling irregularity surprise.
+
+**6. Sentence sets: `sentences-1` Q1 (`/haʊ mʌtʃ ɪz ðɪs/`) is the easiest possible sentence and should stay first — good. However, `sentences-2` Q10 (`The platform is on the other side`) is significantly harder than Q1–Q3 of the same set.**
+
+The jump from "It's raining hard today" (Q1) to a sentence with `platform`, `other`, and `side` all competing as potential confusables is steep within a single set. If difficulty progression within sets is a goal, Q10 of `sentences-2` would fit better at Q7–Q8. This is a minor ordering issue rather than a content error.
+
+---
+
+### Missing contrasts
+
+The following contrast pairs are absent from the exercise curriculum and are high priority for Vietnamese learners:
+
+**Priority 1 — Should add soon**
+
+- **/ŋ/ word-final position** — There is a blog post for `/ŋ/` but no exercise set. Vietnamese has /ŋ/ but only in certain tonal environments; learners frequently drop or distort final /ŋ/ in English (saying "sin" for "sing", "runnin'" for "running"). A 15-question set distinguishing final /ŋ/ vs /n/ (`sing/sin`, `rang/ran`, `long/lon`, `thing/thin`, `bang/ban`) would directly address this gap.
+
+- **/ð/ vs /d/** — The existing `th-va-dh` set correctly covers `/θ/ vs /ð/`, but Vietnamese learners substitute /d/ for /ð/ even more frequently than /z/ for /ð/. A dedicated `/ð/ vs /d/` set with minimal pairs (`then/den`, `this/dis`, `though/dough`, `those/dose`, `they/day`) would target the most common real-world error: "de" for "the", "dat" for "that".
+
+- **/tʃ/ vs /ʃ/** — The existing `dj-vs-ch` set covers `/dʒ/ vs /tʃ/`, but Vietnamese learners also confuse /tʃ/ with /ʃ/ (saying "share" for "chair", "ship" for "chip"). A separate `/tʃ/ vs /ʃ/` set is warranted: `chip/ship`, `chin/shin`, `cheap/sheep`, `chest/shest` (non-word, so replace with `choose/shoes`, `watch/wash`, `catch/cash`).
+
+**Priority 2 — Add in a future expansion**
+
+- **/w/ vs /v/** — There is a blog post for `/w/ vs /v/` but no exercise set. Vietnamese speakers use a bilabial /v/ that is neither the English /w/ nor the English /v/, making both contrasts relevant: `wet/vet`, `wine/vine`, `west/vest`, `wake/vague`. This pair appears in Phase 5c of the blog plan.
+
+- **/j/ vs /dʒ/** — Vietnamese learners commonly say /dʒ/ for /j/ (e.g. "dyear" for "year", "djou" for "you"). A set distinguishing `yes/Jess`, `yet/jet`, `yam/jam`, `year/jeer` would address a genuine production error. This pair also appears in Phase 5c.
+
+- **/ʃ/ vs /s/** — Not listed as a blog post but worth noting: Vietnamese has /s/ but no /ʃ/, so learners say "see" for "she", "so" for "show". This is arguably more common than /ʃ/ vs /ʒ/ (which is covered in Phase 5c) and warrants an exercise set of its own.
+
+**Priority 3 — Completeness only**
+
+- **Schwa /ə/ identification** — The blog has a post on schwa but there is no exercise set for it. Given that /ə/ is the most frequent vowel in English and Vietnamese has no direct equivalent, a set asking learners to identify which syllable contains /ə/ (e.g. `about`, `taken`, `butter`, `problem`) would be high-value. This is harder to implement in the current binary-contrast format; a dedicated "mark the schwa" question type might be needed.
+
+- **/ɔɪ/ identification** — There is no exercise set for /ɔɪ/ despite the blog having a post. Vietnamese has no /ɔɪ/ diphthong. A minimal contrast set (`boy/bay`, `coin/cane`, `voice/vase`, `join/Jane`) would complete diphthong coverage.
+
+---
+
+### Vocabulary flags
+
+The following words in the sound exercise sets are likely above B1–B2 CEFR for the target audience:
+
+| Set ID | Q# | Word | Issue | Suggested replacement |
+|--------|-----|------|-------|-----------------------|
+| `i-ngan-vs-i-dai` | Q15 | `wick` | Obscure (candle wick); no common /iː/ pair | `will` or `win` |
+| `z-va-s` | Q5 | `zeal` | C1 vocabulary; learners won't recognize it | `zoom` |
+| `z-va-s` | Q10 | `dose` | Medical/technical register; B2–C1 | `nose` is already Q9; use `loose` (/s/) instead — but check: `nose` (Q9, /z/) vs `dose` (Q10, /s/) is actually a valid minimal pair. Keep if the pair contrast is the goal; flag for teachers that learners may not know "dose" |
+| `dj-vs-ch` | Q5 | `gin` | Spelling-trap (G→/dʒ/ is irregular); likely known only as a drink name | `gem` |
+| `er-vs-or` | Q15 | `blur` | Less common than other /ɜː/ words in the set | `fur` or `slur` (but `blur` is passable at B2; keep if no better option) |
+| `au-vs-ou` | Q8 | `hoe` | Gardening tool; B2–C1 for Vietnamese learners | `hole` (→ /əʊ/, keeps minimal pair feel) or `home` |
+| `centering-diphthongs` | Q9 | `lure` | Uncommon in everyday speech; B2–C1 | `poor` (/ʊə/ in RP) — though note `poor` is being leveled to /pɔː/ in modern RP |
+
+No vocabulary flags were found in the four sentence exercise sets; all sentences use everyday B1 vocabulary appropriate for the target audience.
+
+---
+
+### Sentence exercise recommendations
+
+**New themes to add (priority order):**
+
+1. **"At Work / In the Office"** — This topic is immediately practical for Vietnamese learners who study English for professional purposes. Target phonetic features: final consonant clusters (`project`, `report`, `deadline`), /ɜː/ in `work`/`word`/`firm`, and /θ/ in `think`/`method`. Example sentences: "The report is due on Thursday.", "Could you send me the file?", "I'll be in a meeting until three."
+
+2. **"Health & Medical"** — High anxiety domain where pronunciation errors have real consequences. Target features: /θ/ in `throat`/`tooth`, /ɜː/ in `nurse`/`hurt`, /dʒ/ in `injection`/`surgery`. Example sentences: "I have a sore throat.", "Does it hurt when I press here?", "Take this medicine twice a day."
+
+3. **"Phone / Digital Communication"** — Highly relevant for Vietnamese learners in professional or travel contexts. Target features: /iː/ vs /ɪ/ in email addresses and names, /θ/ in "three" (phone numbers), linking in "call me back". Example sentences: "Could you spell that for me?", "I'll send you a message.", "The line is breaking up."
+
+4. **"Directions & Transport"** (expansion of Weather & Travel) — `sentences-2` already covers some travel language, but a dedicated directions set would target /θ/ (`third`, `north`), /l/ vs /r/ (`left`/`right`), and final /t/ in `street`/`exit`. This directly addresses the phonetic clusters that make directions hard for Vietnamese ears.
+
+**Improvements to existing sets:**
+
+- `sentences-1` Q4: `/hæv jə ɡɒt ðɪs ɪn blæk/` — The reduced form `jə` (for "you") may confuse learners who haven't studied connected speech yet. Consider adding a note in the set description that this set includes weak forms and reductions, so learners know what to expect.
+
+- `sentences-2` Q2: `Turn left at the traffic lights` — distractor C is "Turn lift at the traffic lights." "Lift" is a real word but the substitution `/left/→/lɪft/` adds a consonant cluster rather than swapping a vowel, making it a slightly different error type from the others in the set. The distractor is fine but slightly inconsistent in error category.
+
+- Consider adding a **difficulty label** to sentence sets in a future UI update: `sentences-1` (Shopping) is easiest — short sentences, common vocabulary; `sentences-2` (Weather & Travel) is harder — longer sentences, reduced forms; `sentences-3` and `sentences-4` are mid-range. This would help learners self-select entry points without requiring a formal difficulty badge on every card.
+
+---
+
+## Content Audit — 2026-05-30
+
+Full 4-agent review of `src/data/exercises.ts`. `astro check` passed with 0 errors after all fixes.
+
+### Items reviewed
+- 16 sound discrimination exercise sets × 15 questions = **240 questions** (480 fields: `answer` + `fullIPA`)
+- 4 sentence exercise sets × 10 questions = **40 questions** (`ipa`, `answer`, `options`)
+
+### Fixes applied
+
+| Category | Count | Details |
+|----------|-------|---------|
+| IPA accuracy (`fullIPA` / `answer`) | 0 | All 480 fields correct per Cambridge/Oxford RP |
+| Distractor quality (sound exercises) | 17 | `heat` Q10, `deep` Q12: `/ʊ/` → `/ə/`; `z-va-s` all 15 questions: `/dʒ/` → `/ð/` for /z/ words, `/t/` → `/f/` for /s/ words |
+| Sentence IPA errors | 3 | `sentences-1` Q10: `weər` → `weə` (RP non-rhotic); `sentences-2` Q10: `ðə ˈʌðə` → `ðɪ ˈʌðə` (the before vowel); `sentences-4` Q9: `djuː` → `duː` ("do" ≠ "dew") |
+
+**Total fixes: 20**
+
+### Open recommendations (from Pedagogical Review above)
+- Add `/ŋ/ vs /n/` final-position exercise set (high priority — blog post exists, no exercise)
+- Add `/ð/ vs /d/` exercise set (high priority — most common real-world substitution)
+- Add `/tʃ/ vs /ʃ/` exercise set (high priority)
+- Replace 7 above-B1 vocabulary items (`wick`, `zeal`, `gin`, `blur`, `hoe`, `lure`, `dose`)
+- Reorder `th-va-dh` and `l-va-r` sets to appear after all vowel sets
+- Add 4 new sentence exercise themes (Work/Office, Health/Medical, Phone/Digital, Directions)
