@@ -229,6 +229,12 @@ Update this section after completing each phase or significant milestone.
 [2026-05-21] — Phase 5 complete. 13 new posts: /ɜː/, 8 diphthongs (/eɪ/ /aɪ/ /ɔɪ/ /aʊ/ /əʊ/ /ɪə/ /eə/ /ʊə/), 4 consonants (/ʃ//ʒ/, /w/, /j/, /h/). Total: 31 posts.
 [2026-05-21] — Phase 6 complete. 4 posts: /p//b/, /t//d/, /k//g/, /m//n/. Full IPA coverage achieved. Total: 35 posts.
 [2026-05-21] — Phase 7 complete. Audio embeds added to all Phase 1–2 posts (12 posts). All Phase 5 posts already included audio. Full site now has inline audio players for all IPA sound posts.
+[2026-05-30] — Exercises expanded to 16 IPA sound sets (12 new). Added fullIPA field to all 240 questions for "Show IPA" hint display (British RP transcriptions).
+[2026-05-30] — Sentence exercise type implemented: 4 sets × 10 questions (sentences-1 through sentences-4). New components: SentenceQuestionRow.astro, SentenceExerciseSet.astro. /exercises page now shows both exercise types.
+[2026-05-30] — /exercises page UI updated: color-coded cards (teal for sound, orange #E07B39 for sentence), emoji icons (🔊/📖), difficulty badges (Cơ bản/Trung cấp), styled section divider headers with subtitles.
+[2026-05-30] — /exercises card styling simplified: neutral gray border (#e5e7eb) on all cards, no colored left border, no emoji icons, no title color change on hover. Hover state is box-shadow only. Accent color kept on badges and "Bắt đầu →" link only.
+[2026-05-30] — /exercises further simplified: removed all difficulty badges; "Đọc câu IPA" section renamed to "Phonetic Practice"; only color difference between sections is "Bắt đầu →" link (teal vs orange).
+[2026-05-30] — Sentence exercise set titles renamed to English: "Phonetic Practice — Shopping/Weather & Travel/Daily Life/Food & Restaurants".
 ```
 
 ---
@@ -290,3 +296,67 @@ Run this checklist on each post before publishing or after major edits.
 - Intonation post: tag questions either fully developed or trimmed to 2 examples
 
 If any of the above checks fail, fix the content before moving on to the next post. Do not accumulate errors across posts — a wrong foundation makes later content harder to trust.
+
+---
+
+## Sentence Exercise Type
+
+### Data structure (`src/data/exercises.ts`)
+```ts
+interface SentenceQuestion {
+  id: number;
+  ipa: string;       // Full sentence IPA (British RP), shown as the prompt
+  options: string[]; // 4 English sentences; one matches the IPA exactly
+  answer: string;    // The correct English sentence (must equal one option exactly)
+}
+interface SentenceExerciseSet {
+  id: string;
+  title: string;
+  description: string;
+  questions: SentenceQuestion[];
+}
+export const sentenceExerciseSets: SentenceExerciseSet[];
+```
+
+### Sets
+| ID | Title | Questions |
+|----|-------|-----------|
+| `sentences-1` | Đọc IPA — Mua sắm | 10 |
+| `sentences-2` | Đọc IPA — Thời tiết & Du lịch | 10 |
+| `sentences-3` | Đọc IPA — Cuộc sống hàng ngày | 10 |
+| `sentences-4` | Đọc IPA — Nhà hàng & Đồ ăn | 10 |
+
+### Components
+- `src/layouts/components/exercises/SentenceQuestionRow.astro` — renders IPA prompt + 4 A/B/C/D option buttons
+- `src/layouts/components/exercises/SentenceExerciseSet.astro` — wrapper with check/reset logic; uses `sentence-exercise-set` class, same `data-locked`/`data-correct`/`aria-pressed` pattern as sound exercises
+
+### Route
+`src/pages/exercises/[id].astro` uses a discriminated union props pattern (`kind: "sound" | "sentence"`) with optional `soundSet?` / `sentenceSet?` to avoid TypeScript narrowing issues in Astro frontmatter.
+
+---
+
+## Distractor Review — Sentence Exercises
+
+After writing each set, all 4 distractors per question were reviewed against these rules:
+1. Each wrong option must be a grammatically plausible English sentence.
+2. No distractor may share the same IPA as the correct answer (no homophones).
+3. Wrong options must differ from the answer by a realistic phonetic confusion (vowel swap, consonant swap, or cluster change) — not by common sense elimination.
+4. No duplicate sentences within a question (all 4 options must be distinct).
+
+### Issues found and fixed
+
+**sentences-1 (Shopping)**
+- Q5 original answer "I need a bigger size": distractor used "beggar" (noun, not adjective — eliminatable by grammar). Changed the answer sentence to "I need a smaller size" and updated all distractors.
+
+**sentences-2 (Weather & Travel)**
+- Entire first draft scrapped. Issues: `rain`/`reign` share IPA `/reɪn/` (homophone trap); `weather`/`whether` share IPA `/ˈweðə/` (RP). Q3 had a duplicate option. Q3/Q4/Q5/Q10 had the correct answer repeated as a distractor. IPA `/ðə fleɪt/` was wrong (should be `/flaɪt/`). Replaced with 10 fresh questions.
+
+**sentences-3 (Everyday Conversations)**
+- Q9 option B "She sold me to wait outside" was semantically eliminatable (implies human trafficking). Changed to "She bowled me to wait outside" (/t/→/b/ substitution in "told").
+
+**sentences-4 (Food & Restaurants)**
+- Q8 option C "This coffee is too strange for me" — minor: "strange" is an unusual collocation but not ungrammatical. Kept as-is; eliminatable by weak-form reading of `/strɒŋ/` vs `/streɪndʒ/`.
+
+### Homophone reference (avoid as distractors)
+These common pairs share identical British RP IPA — never use one as a distractor for the other:
+`rain`/`reign`, `weather`/`whether`, `morning`/`mourning`, `night`/`knight`, `meet`/`meat`, `sea`/`see`, `sale`/`sail`, `floor`/`flaw`, `here`/`hear`, `there`/`their`/`they're`

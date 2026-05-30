@@ -1,27 +1,53 @@
 ---
 import Base from "@/layouts/Base.astro";
 import ExerciseSet from "@/components/exercises/ExerciseSet.astro";
-import { exerciseSets } from "@/data/exercises";
-import type { ExerciseSet as ExerciseSetType } from "@/data/exercises";
+import SentenceExerciseSet from "@/components/exercises/SentenceExerciseSet.astro";
+import {
+  exerciseSets,
+  sentenceExerciseSets,
+} from "@/data/exercises";
+import type {
+  ExerciseSet as ExerciseSetType,
+  SentenceExerciseSet as SentenceExerciseSetType,
+} from "@/data/exercises";
 
 export function getStaticPaths() {
-  return exerciseSets.map((set) => ({
+  const soundPaths = exerciseSets.map((set) => ({
     params: { id: set.id },
-    props: { set },
+    props: { kind: "sound" as const, soundSet: set as ExerciseSetType },
   }));
+  const sentencePaths = sentenceExerciseSets.map((set) => ({
+    params: { id: set.id },
+    props: {
+      kind: "sentence" as const,
+      sentenceSet: set as SentenceExerciseSetType,
+    },
+  }));
+  return [...soundPaths, ...sentencePaths];
 }
 
 interface Props {
-  set: ExerciseSetType;
+  kind: "sound" | "sentence";
+  soundSet?: ExerciseSetType;
+  sentenceSet?: SentenceExerciseSetType;
 }
 
-const { set } = Astro.props;
+const { kind, soundSet, sentenceSet } = Astro.props;
+
+const title = kind === "sound" ? soundSet!.title : sentenceSet!.title;
+const description =
+  kind === "sound" ? soundSet!.description : sentenceSet!.description;
+
+const instructions =
+  kind === "sound"
+    ? "Chọn ký hiệu IPA đúng cho mỗi từ. Dùng nút <strong class=\"text-dark\">Hiện IPA</strong> nếu cần gợi ý, rồi nhấn <strong class=\"text-dark\">Kiểm tra kết quả</strong> khi hoàn thành."
+    : "Đọc phiên âm IPA và chọn câu tiếng Anh tương ứng. Nhấn <strong class=\"text-dark\">Kiểm tra kết quả</strong> khi hoàn thành.";
 ---
 
 <Base
-  title={set.title}
-  meta_title={`${set.title} | Bài Tập Phát Âm`}
-  description={set.description}
+  title={title}
+  meta_title={`${title} | Bài Tập Phát Âm`}
+  description={description}
 >
   <section class="section !pt-10">
     <div class="container">
@@ -34,11 +60,10 @@ const { set } = Astro.props;
         </a>
       </div>
 
-      <p class="text-center text-text mb-12 max-w-xl mx-auto">
-        Chọn ký hiệu IPA đúng cho mỗi từ. Dùng nút <strong class="text-dark">Hiện IPA</strong> nếu cần gợi ý, rồi nhấn <strong class="text-dark">Kiểm tra kết quả</strong> khi hoàn thành.
-      </p>
+      <p class="text-center text-text mb-12 max-w-xl mx-auto" set:html={instructions} />
 
-      <ExerciseSet set={set} />
+      {kind === "sound" && soundSet && <ExerciseSet set={soundSet} />}
+      {kind === "sentence" && sentenceSet && <SentenceExerciseSet set={sentenceSet} />}
     </div>
   </section>
 </Base>

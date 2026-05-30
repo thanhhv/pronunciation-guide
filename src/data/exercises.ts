@@ -375,3 +375,490 @@ export const exerciseSets: ExerciseSet[] = [
     ],
   },
 ];
+
+// ─── Sentence Reading Exercise ───────────────────────────────────────────────
+
+export interface SentenceQuestion {
+  id: number;
+  ipa: string;
+  options: string[];
+  answer: string;
+}
+
+export interface SentenceExerciseSet {
+  id: string;
+  title: string;
+  description: string;
+  questions: SentenceQuestion[];
+}
+
+export const sentenceExerciseSets: SentenceExerciseSet[] = [
+  {
+    id: "sentences-1",
+    title: "Shopping",
+    description: "Đọc phiên âm IPA và chọn câu tiếng Anh đúng. Chủ đề: mua sắm (Shopping).",
+    questions: [
+      {
+        id: 1,
+        ipa: "/haʊ mʌtʃ ɪz ðɪs/",
+        options: [
+          "How much is this?",
+          "How match is this?",
+          "How much is these?",
+          "How much in this?",
+        ],
+        answer: "How much is this?",
+      },
+      {
+        id: 2,
+        ipa: "/kæn aɪ peɪ baɪ kɑːd/",
+        options: [
+          "Can I pay by card?",
+          "Can I pay by cord?",
+          "Can I play by card?",
+          "Can I pay by cart?",
+        ],
+        answer: "Can I pay by card?",
+      },
+      {
+        id: 3,
+        ipa: "/ðɪs ʃɜːt ɪz tuː bɪɡ/",
+        options: [
+          "This shirt is too big.",
+          "This short is too big.",
+          "This sheet is too big.",
+          "This shirt is too bag.",
+        ],
+        answer: "This shirt is too big.",
+      },
+      {
+        id: 4,
+        ipa: "/hæv jə ɡɒt ðɪs ɪn blæk/",
+        options: [
+          "Have you got this in black?",
+          "Have you got these in black?",
+          "Have you got this in block?",
+          "Have you get this in black?",
+        ],
+        answer: "Have you got this in black?",
+      },
+      {
+        id: 5,
+        ipa: "/aɪ niːd ə ˈsmɔːlə saɪz/",
+        options: [
+          "I need a smaller size.",
+          "I need a smaller side.",
+          "I need a smeller size.",
+          "I need a small size.",
+        ],
+        answer: "I need a smaller size.",
+      },
+      {
+        id: 6,
+        ipa: "/ðə praɪs ɪz ˈveri haɪ/",
+        options: [
+          "The price is very high.",
+          "The price is very hay.",
+          "The price is fairy high.",
+          "The prize is very high.",
+        ],
+        answer: "The price is very high.",
+      },
+      {
+        id: 7,
+        ipa: "/ðə bæɡ ɪz meɪd əv ˈleðə/",
+        options: [
+          "The bag is made of leather.",
+          "The bag is mad of leather.",
+          "The back is made of leather.",
+          "The bag is made of feather.",
+        ],
+        answer: "The bag is made of leather.",
+      },
+      {
+        id: 8,
+        ipa: "/ðæt wɪl biː ten paʊndz pliːz/",
+        options: [
+          "That will be ten pounds, please.",
+          "That will be tan pounds, please.",
+          "That will be ten ponds, please.",
+          "That mill be ten pounds, please.",
+        ],
+        answer: "That will be ten pounds, please.",
+      },
+      {
+        id: 9,
+        ipa: "/aɪm dʒʌst ˈlʊkɪŋ θæŋk juː/",
+        options: [
+          "I'm just looking, thank you.",
+          "I'm just cooking, thank you.",
+          "I'm just looking, tank you.",
+          "I'm jest looking, thank you.",
+        ],
+        answer: "I'm just looking, thank you.",
+      },
+      {
+        id: 10,
+        ipa: "/weər ɪz ðə ˈfɪtɪŋ ruːm/",
+        options: [
+          "Where is the fitting room?",
+          "Where is the fitting Rome?",
+          "Where is the sitting room?",
+          "Where is the fitting boom?",
+        ],
+        answer: "Where is the fitting room?",
+      },
+    ],
+  },
+  {
+    id: "sentences-2",
+    title: "Weather & Travel",
+    description: "Đọc phiên âm IPA và chọn câu tiếng Anh đúng. Chủ đề: thời tiết và du lịch.",
+    questions: [
+      {
+        id: 1,
+        ipa: "/ɪts ˈreɪnɪŋ hɑːd təˈdeɪ/",
+        options: [
+          "It's raining hard today.",
+          "It's waning hard today.",
+          "It's raining lard today.",
+          "It's draining hard today.",
+        ],
+        answer: "It's raining hard today.",
+      },
+      {
+        id: 2,
+        ipa: "/tɜːn left æt ðə ˈtræfɪk laɪts/",
+        options: [
+          "Turn left at the traffic lights.",
+          "Turn left at the traffic fights.",
+          "Turn lift at the traffic lights.",
+          "Turn left at the traffic kites.",
+        ],
+        answer: "Turn left at the traffic lights.",
+      },
+      {
+        id: 3,
+        ipa: "/maɪ flaɪt lændz æt sɪks ˈθɜːti/",
+        options: [
+          "My flight lands at six thirty.",
+          "My flight lands at six dirty.",
+          "My flight lends at six thirty.",
+          "My slight lands at six thirty.",
+        ],
+        answer: "My flight lands at six thirty.",
+      },
+      {
+        id: 4,
+        ipa: "/ðə həʊˈtel ɪz nɪə ðə biːtʃ/",
+        options: [
+          "The hotel is near the beach.",
+          "The motel is near the beach.",
+          "The hotel is near the reach.",
+          "The hotel is near the bleach.",
+        ],
+        answer: "The hotel is near the beach.",
+      },
+      {
+        id: 5,
+        ipa: "/ɪt teɪks əˈbaʊt ən aʊə tə wɔːk/",
+        options: [
+          "It takes about an hour to walk.",
+          "It bakes about an hour to walk.",
+          "It takes about an hour to talk.",
+          "It takes about an hour to work.",
+        ],
+        answer: "It takes about an hour to walk.",
+      },
+      {
+        id: 6,
+        ipa: "/kʊd juː help miː wɪð maɪ bæɡz/",
+        options: [
+          "Could you help me with my bags?",
+          "Could you help me with my begs?",
+          "Could you help me with my backs?",
+          "Could you help me with my nags?",
+        ],
+        answer: "Could you help me with my bags?",
+      },
+      {
+        id: 7,
+        ipa: "/ðə ˈweðə ˈfɔːkɑːst wəz rɒŋ/",
+        options: [
+          "The weather forecast was wrong.",
+          "The feather forecast was wrong.",
+          "The weather forecast was long.",
+          "The leather forecast was wrong.",
+        ],
+        answer: "The weather forecast was wrong.",
+      },
+      {
+        id: 8,
+        ipa: "/ðeə ɪz ə lɒt əv fɒɡ ɒn ðə rəʊd/",
+        options: [
+          "There is a lot of fog on the road.",
+          "There is a log of fog on the road.",
+          "There is a lot of fog on the load.",
+          "There is a lot of bog on the road.",
+        ],
+        answer: "There is a lot of fog on the road.",
+      },
+      {
+        id: 9,
+        ipa: "/wiː niːd tə bʊk ə ruːm fə ðə naɪt/",
+        options: [
+          "We need to book a room for the night.",
+          "We lead to book a room for the night.",
+          "We need to book a Rome for the night.",
+          "We need to book a room for the fight.",
+        ],
+        answer: "We need to book a room for the night.",
+      },
+      {
+        id: 10,
+        ipa: "/ðə ˈplætfɔːm ɪz ɒn ðə ˈʌðə saɪd/",
+        options: [
+          "The platform is on the other side.",
+          "The platform is on the udder side.",
+          "The platform is on the other tide.",
+          "The flatform is on the other side.",
+        ],
+        answer: "The platform is on the other side.",
+      },
+    ],
+  },
+  {
+    id: "sentences-3",
+    title: "Daily Life",
+    description: "Đọc phiên âm IPA và chọn câu tiếng Anh đúng. Chủ đề: cuộc sống hàng ngày.",
+    questions: [
+      {
+        id: 1,
+        ipa: "/naɪs tə miːt juː/",
+        options: [
+          "Nice to meet you.",
+          "Nice to beat you.",
+          "Mice to meet you.",
+          "Lice to meet you.",
+        ],
+        answer: "Nice to meet you.",
+      },
+      {
+        id: 2,
+        ipa: "/pliːz teɪk ə siːt/",
+        options: [
+          "Please take a seat.",
+          "Please bake a seat.",
+          "Please take a heat.",
+          "Fleas take a seat.",
+        ],
+        answer: "Please take a seat.",
+      },
+      {
+        id: 3,
+        ipa: "/hiː left hɪz fəʊn ɒn ðə desk/",
+        options: [
+          "He left his phone on the desk.",
+          "He left his bone on the desk.",
+          "He left his phone on the dusk.",
+          "He loft his phone on the desk.",
+        ],
+        answer: "He left his phone on the desk.",
+      },
+      {
+        id: 4,
+        ipa: "/ʃiː wɜːks ɪn ə bæŋk/",
+        options: [
+          "She works in a bank.",
+          "She walks in a bank.",
+          "She works in a tank.",
+          "She works in a blank.",
+        ],
+        answer: "She works in a bank.",
+      },
+      {
+        id: 5,
+        ipa: "/ðeɪ kɔːt ðə bʌs dʒʌst ɪn taɪm/",
+        options: [
+          "They caught the bus just in time.",
+          "They caught the bus just in dime.",
+          "They caught the fuss just in time.",
+          "They caught the bus jest in time.",
+        ],
+        answer: "They caught the bus just in time.",
+      },
+      {
+        id: 6,
+        ipa: "/ðə ˈtʃɪldrən wə ˈpleɪɪŋ ɪn ðə pɑːk/",
+        options: [
+          "The children were playing in the park.",
+          "The children were playing in the dark.",
+          "The children were praying in the park.",
+          "The children were laying in the park.",
+        ],
+        answer: "The children were playing in the park.",
+      },
+      {
+        id: 7,
+        ipa: "/aɪ dəʊnt nəʊ ðɪ ˈɑːnsə/",
+        options: [
+          "I don't know the answer.",
+          "I won't know the answer.",
+          "I don't show the answer.",
+          "I don't know the dancer.",
+        ],
+        answer: "I don't know the answer.",
+      },
+      {
+        id: 8,
+        ipa: "/ðə ˈmiːtɪŋ stɑːts æt naɪn/",
+        options: [
+          "The meeting starts at nine.",
+          "The beating starts at nine.",
+          "The meeting parts at nine.",
+          "The meeting starts at vine.",
+        ],
+        answer: "The meeting starts at nine.",
+      },
+      {
+        id: 9,
+        ipa: "/ʃiː təʊld miː tə weɪt ˌaʊtˈsaɪd/",
+        options: [
+          "She told me to wait outside.",
+          "She bowled me to wait outside.",
+          "She told me to bait outside.",
+          "She polled me to wait outside.",
+        ],
+        answer: "She told me to wait outside.",
+      },
+      {
+        id: 10,
+        ipa: "/kæn aɪ juːz jɔː fəʊn fər ə ˈməʊmənt/",
+        options: [
+          "Can I use your phone for a moment?",
+          "Can I fuse your phone for a moment?",
+          "Can I use your bone for a moment?",
+          "Can I lose your phone for a moment?",
+        ],
+        answer: "Can I use your phone for a moment?",
+      },
+    ],
+  },
+  {
+    id: "sentences-4",
+    title: "Food & Restaurants",
+    description: "Đọc phiên âm IPA và chọn câu tiếng Anh đúng. Chủ đề: nhà hàng và đồ ăn.",
+    questions: [
+      {
+        id: 1,
+        ipa: "/ðə suːp ɪz kəʊld/",
+        options: [
+          "The soup is cold.",
+          "The soup is bold.",
+          "The soap is cold.",
+          "The sloop is cold.",
+        ],
+        answer: "The soup is cold.",
+      },
+      {
+        id: 2,
+        ipa: "/ɪz ðeə ə ˈteɪbəl fə tuː/",
+        options: [
+          "Is there a table for two?",
+          "Is there a stable for two?",
+          "Is there a fable for two?",
+          "Is there a label for two?",
+        ],
+        answer: "Is there a table for two?",
+      },
+      {
+        id: 3,
+        ipa: "/ðə bɪl kʌmz tə ˈθɜːti paʊndz/",
+        options: [
+          "The bill comes to thirty pounds.",
+          "The bill comes to dirty pounds.",
+          "The pill comes to thirty pounds.",
+          "The bill combs to thirty pounds.",
+        ],
+        answer: "The bill comes to thirty pounds.",
+      },
+      {
+        id: 4,
+        ipa: "/kæn wiː siː ðə ˈmenjuː pliːz/",
+        options: [
+          "Can we see the menu, please?",
+          "Can we fee the menu, please?",
+          "Can we see the venue, please?",
+          "Can he see the menu, please?",
+        ],
+        answer: "Can we see the menu, please?",
+      },
+      {
+        id: 5,
+        ipa: "/aɪm əˈlɜːdʒɪk tə nʌts/",
+        options: [
+          "I'm allergic to nuts.",
+          "I'm allergic to gnats.",
+          "I'm allergic to guts.",
+          "I'm allergic to cuts.",
+        ],
+        answer: "I'm allergic to nuts.",
+      },
+      {
+        id: 6,
+        ipa: "/kʊd aɪ hæv ðə tʃek pliːz/",
+        options: [
+          "Could I have the check, please?",
+          "Could I have the deck, please?",
+          "Could I have the neck, please?",
+          "Could I have the wreck, please?",
+        ],
+        answer: "Could I have the check, please?",
+      },
+      {
+        id: 7,
+        ipa: "/aɪl hæv ðə fɪʃ ənd tʃɪps/",
+        options: [
+          "I'll have the fish and chips.",
+          "I'll have the fish and ships.",
+          "I'll have the dish and chips.",
+          "I'll have the fish and dips.",
+        ],
+        answer: "I'll have the fish and chips.",
+      },
+      {
+        id: 8,
+        ipa: "/ðɪs ˈkɒfi ɪz tuː strɒŋ fə miː/",
+        options: [
+          "This coffee is too strong for me.",
+          "This toffee is too strong for me.",
+          "This coffee is too long for me.",
+          "This coffee is too strong for three.",
+        ],
+        answer: "This coffee is too strong for me.",
+      },
+      {
+        id: 9,
+        ipa: "/djuː jə teɪk ˈʃʊɡə ɪn jɔː tiː/",
+        options: [
+          "Do you take sugar in your tea?",
+          "Do you fake sugar in your tea?",
+          "Do you shake sugar in your tea?",
+          "Do you take sugar in your sea?",
+        ],
+        answer: "Do you take sugar in your tea?",
+      },
+      {
+        id: 10,
+        ipa: "/aɪ ˈɔːdəd ðə rɒŋ dɪʃ/",
+        options: [
+          "I ordered the wrong dish.",
+          "I ordered the long dish.",
+          "I ordered the wrong fish.",
+          "I ordered the prong dish.",
+        ],
+        answer: "I ordered the wrong dish.",
+      },
+    ],
+  },
+];

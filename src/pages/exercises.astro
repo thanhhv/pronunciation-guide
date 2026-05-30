@@ -1,6 +1,6 @@
 ---
 import Base from "@/layouts/Base.astro";
-import { exerciseSets } from "@/data/exercises";
+import { exerciseSets, sentenceExerciseSets } from "@/data/exercises";
 ---
 
 <Base
@@ -12,20 +12,26 @@ import { exerciseSets } from "@/data/exercises";
     <div class="container">
       <h1 class="page-heading">Bài Tập Luyện Phát Âm</h1>
       <p class="text-center text-text mb-16 max-w-xl mx-auto">
-        Chọn một bài tập để bắt đầu luyện phân biệt âm IPA. Mỗi bài gồm 15 câu hỏi trắc nghiệm.
+        Chọn một bài tập để bắt đầu. Mỗi bài gồm trắc nghiệm về âm IPA hoặc đọc câu phiên âm.
       </p>
 
-      <div class="row gy-5 gx-4">
+      <!-- Section: Sound discrimination -->
+      <div class="flex items-center gap-4 mb-6">
+        <div class="shrink-0">
+          <h2 class="text-h4 font-bold text-dark">Nhận biết âm IPA</h2>
+          <p class="text-sm text-text mt-1">Chọn ký hiệu IPA đúng cho từng từ</p>
+        </div>
+        <hr class="flex-1 border-border" />
+      </div>
+
+      <div class="row gy-5 gx-4 mb-16">
         {
           exerciseSets.map((set) => (
             <div class="col-12 sm:col-6">
-              <a
-                href={`/exercises/${set.id}`}
-                class="group flex flex-col h-full rounded-lg border border-border p-6 transition-colors hover:border-primary"
-              >
-                <h2 class="text-h4 font-bold text-dark mb-3 transition-colors group-hover:text-primary">
+              <a href={`/exercises/${set.id}`} class="exercise-card group flex flex-col h-full rounded-lg p-6">
+                <h3 class="text-h4 font-bold text-dark mb-3">
                   {set.title}
-                </h2>
+                </h3>
                 <p class="text-text text-sm flex-1 mb-5">{set.description}</p>
                 <div class="flex items-center justify-between">
                   <span class="text-xs text-text-light font-medium">
@@ -40,6 +46,49 @@ import { exerciseSets } from "@/data/exercises";
           ))
         }
       </div>
+
+      <!-- Section: Phonetic Practice -->
+      <div class="flex items-center gap-4 mb-6">
+        <div class="shrink-0">
+          <h2 class="text-h4 font-bold text-dark">Phonetic Practice</h2>
+          <p class="text-sm text-text mt-1">Đọc phiên âm IPA và chọn câu tiếng Anh tương ứng</p>
+        </div>
+        <hr class="flex-1 border-border" />
+      </div>
+
+      <div class="row gy-5 gx-4">
+        {
+          sentenceExerciseSets.map((set) => (
+            <div class="col-12 sm:col-6">
+              <a href={`/exercises/${set.id}`} class="exercise-card group flex flex-col h-full rounded-lg p-6">
+                <h3 class="text-h4 font-bold text-dark mb-3">
+                  {set.title}
+                </h3>
+                <p class="text-text text-sm flex-1 mb-5">{set.description}</p>
+                <div class="flex items-center justify-between">
+                  <span class="text-xs text-text-light font-medium">
+                    {set.questions.length} câu hỏi
+                  </span>
+                  <span class="text-sm font-semibold group-hover:underline" style="color: #E07B39">
+                    Bắt đầu →
+                  </span>
+                </div>
+              </a>
+            </div>
+          ))
+        }
+      </div>
     </div>
   </section>
 </Base>
+
+<style>
+  .exercise-card {
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    transition: box-shadow 0.2s ease;
+  }
+  .exercise-card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+</style>
