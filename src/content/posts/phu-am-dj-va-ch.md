@@ -62,7 +62,7 @@ Từ ví dụ: **job**, **judge**, **age**, **ginger**, **jump**
 
 | Từ | IPA | Nghĩa |
 |----|-----|-------|
-| church | /tʃɜːrtʃ/ | nhà thờ |
+| church | /tʃɜːtʃ/ | nhà thờ |
 | cheap | /tʃiːp/ | rẻ |
 | chair | /tʃɛər/ | cái ghế |
 | choose | /tʃuːz/ | chọn |

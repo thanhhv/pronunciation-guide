@@ -181,7 +181,7 @@ Câu ví dụ:
 | foam /foʊm/ | phone /foʊn/ |
 | same /seɪm/ | sane /seɪn/ |
 | come /kʌm/ | con /kɒn/ |
-| him /hɪm/ | hinge — |
+| seem /siːm/ | seen /siːn/ |
 | room /ruːm/ | rune /ruːn/ |
 
 ### Tongue Twisters — Luyện cơ miệng

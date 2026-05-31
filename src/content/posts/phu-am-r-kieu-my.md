@@ -31,11 +31,21 @@ draft: false
 
 ## Cách phát âm từng bước
 
-### Phương pháp 1 — Lưỡi cong (Retroflex)
-
 <audio controls preload="none" style="height:36px;margin-bottom:12px">
   <source src="/audio/r.mp3" type="audio/mpeg" />
 </audio>
+
+### Phương pháp 1 — Lưỡi co cụm (Bunched) — *khuyến nghị cho người mới*
+
+1. Môi hơi tròn lại
+2. **Phần giữa lưỡi nhô cao lên** mà không cong về sau
+3. Lưỡi "co cụm" ở giữa miệng — đầu lưỡi có thể trỏ xuống hoặc hướng ra trước, tùy người
+4. Âm **hữu thanh** — rung dây thanh
+5. Hơi thở thoát ra từ trung tâm
+
+> **Tại sao bắt đầu với Bunched?** Đa số học viên Việt Nam thấy phương pháp này dễ kiểm soát hơn vì lưỡi giữ ổn định ở giữa miệng, không cần cong ngược về sau. Sau 2 tuần luyện tập đều, nếu âm vẫn chưa tự nhiên, hãy thử Phương pháp 2.
+
+### Phương pháp 2 — Lưỡi cong (Retroflex)
 
 1. Miệng hơi mở, **môi hơi tròn lại**
 2. **Cong đầu lưỡi ra sau** — lưỡi không chạm vào vòm miệng
@@ -43,16 +53,7 @@ draft: false
 4. Âm **hữu thanh** — rung dây thanh
 5. Hơi thở thoát ra từ trung tâm
 
-### Phương pháp 2 — Lưỡi co cụm (Bunched)
-
-1. Môi hơi tròn lại
-2. **Phần giữa lưỡi nhô cao lên** mà không cong về sau
-3. Lưỡi "co cụm" ở giữa miệng
-4. Đầu lưỡi có thể trỏ xuống hoặc ra trước — tùy người
-
-*Cả hai phương pháp đều cho ra âm /r/ đúng chuẩn — hãy thử cả hai và chọn cái nào cảm thấy tự nhiên hơn.*
-
-> **Gợi ý cho người mới bắt đầu:** Hãy bắt đầu với **Phương pháp 2 (Bunched)**. Nhiều học viên thấy phương pháp này dễ kiểm soát hơn vì lưỡi giữ ổn định ở giữa miệng thay vì cong ngược về sau. Sau 2 tuần luyện tập, nếu âm vẫn chưa tự nhiên, hãy thử chuyển sang Phương pháp 1 (Retroflex).
+*Cả hai phương pháp đều cho ra âm /r/ đúng chuẩn. Bunched là điểm xuất phát an toàn; Retroflex là lựa chọn khi bạn cảm thấy thoải mái hơn với việc cong lưỡi.*
 
 Từ ví dụ: **red**, **run**, **very**, **word**, **first**
 

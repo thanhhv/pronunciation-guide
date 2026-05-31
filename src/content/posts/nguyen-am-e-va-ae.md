@@ -1,9 +1,9 @@
 ---
-title: "Phân biệt /ɛ/ và /æ/ — 'bed' không phải 'bad'!"
-meta_title: "Nguyên âm /ɛ/ và /æ/ trong tiếng Anh"
-description: "Học cách phân biệt /ɛ/ (như trong 'bed') và /æ/ (như trong 'bad') — âm /æ/ hoàn toàn không có trong tiếng Việt!"
+title: "Phân biệt /e/ và /æ/ — 'bed' không phải 'bad'!"
+meta_title: "Nguyên âm /e/ và /æ/ trong tiếng Anh"
+description: "Học cách phân biệt /e/ (như trong 'bed') và /æ/ (như trong 'bad') — âm /æ/ hoàn toàn không có trong tiếng Việt!"
 date: "2026-06-17"
-image: "https://placehold.co/600x400/15803d/ffffff?text=/ɛ/+vs+/æ/"
+image: "https://placehold.co/600x400/15803d/ffffff?text=/e/+vs+/æ/"
 categories: ["Nguyên Âm"]
 authors: ["Pronify Team"]
 tags: ["nguyên âm", "e", "ae"]
@@ -12,12 +12,12 @@ draft: false
 
 ## Giới thiệu
 
-- **/ɛ/** — âm "e" trung. Ví dụ: **bed**, **red**, **men**
+- **/e/** — âm "e" trung. Ví dụ: **bed**, **red**, **men**
 - **/æ/** — âm "a" trước. Ví dụ: **bad**, **man**, **cat**
 
 **Âm này có trong tiếng Việt không?**
 
-- /ɛ/ khá gần với âm "e" trong tiếng Việt (ví dụ: *be*, *xe*). Tuy nhiên âm tiếng Anh mở hơn một chút.
+- /e/ khá gần với âm "e" trong tiếng Việt (ví dụ: *be*, *xe*). Tuy nhiên âm tiếng Anh mở hơn một chút.
 - /æ/ **hoàn toàn không tồn tại** trong tiếng Việt. Đây là âm khó nhất trong Phase 1!
 
 **Bí quyết:** Để phát âm /æ/, bắt đầu từ âm "e" rồi mở miệng rộng ra như khi nói "a" — nhưng giữ lưỡi ở phía trước.
@@ -26,7 +26,7 @@ draft: false
 
 ## Cách phát âm từng bước
 
-### /ɛ/ — âm "e" trung
+### /e/ — âm "e" trung
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">
   <source src="/audio/e.mp3" type="audio/mpeg" />
@@ -46,7 +46,7 @@ Từ ví dụ: **bed**, **red**, **men**, **pet**, **set**
   <source src="/audio/ae.mp3" type="audio/mpeg" />
 </audio>
 
-1. **Mở miệng rộng hơn /ɛ/** — hàm dưới hạ thấp hơn
+1. **Mở miệng rộng hơn /e/** — hàm dưới hạ thấp hơn
 2. Lưỡi đẩy **về phía trước và xuống thấp** hơn
 3. Cảm giác miệng vừa mở rộng vừa căng ở hai bên
 4. Âm **hữu thanh**
@@ -58,15 +58,15 @@ Từ ví dụ: **bad**, **man**, **cat**, **hat**, **map**
 
 ## Vị trí trong từ
 
-### /ɛ/ ở đầu từ
+### /e/ ở đầu từ
 
 | Từ | IPA | Nghĩa |
 |----|-----|-------|
-| egg | /ɛɡ/ | trứng |
-| end | /ɛnd/ | kết thúc |
-| ever | /ˈɛvər/ | từng |
-| extra | /ˈɛkstrə/ | thêm |
-| else | /ɛls/ | khác |
+| egg | /eɡ/ | trứng |
+| end | /end/ | kết thúc |
+| ever | /ˈevər/ | từng |
+| extra | /ˈekstrə/ | thêm |
+| else | /els/ | khác |
 
 Câu ví dụ:
 1. I had an **egg** for breakfast.
@@ -75,15 +75,15 @@ Câu ví dụ:
 4. She always goes the **extra** mile.
 5. Do you need anything **else**?
 
-### /ɛ/ ở giữa từ
+### /e/ ở giữa từ
 
 | Từ | IPA | Nghĩa |
 |----|-----|-------|
-| bed | /bɛd/ | giường |
-| red | /rɛd/ | đỏ |
-| men | /mɛn/ | đàn ông |
-| pet | /pɛt/ | thú cưng |
-| help | /hɛlp/ | giúp đỡ |
+| bed | /bed/ | giường |
+| red | /red/ | đỏ |
+| men | /men/ | đàn ông |
+| pet | /pet/ | thú cưng |
+| help | /help/ | giúp đỡ |
 
 Câu ví dụ:
 1. Go to **bed** early tonight.
@@ -132,7 +132,7 @@ Câu ví dụ:
 
 ### Minimal Pairs — Cặp từ tối giản
 
-| /ɛ/ | /æ/ |
+| /e/ | /æ/ |
 |-----|-----|
 | bed | bad |
 | men | man |
@@ -145,7 +145,7 @@ Câu ví dụ:
 ### Tongue Twisters — Luyện cơ miệng
 
 1. *"A bad cat sat on Matt's mat and trapped a fat rat."* (Tập trung vào /æ/)
-2. *"The men's red pen set on the wet shelf."* (Tập trung vào /ɛ/)
+2. *"The men's red pen set on the wet shelf."* (Tập trung vào /e/)
 3. *"Can a tan man fan a plan to tan in Japan?"*
 
 ### Sentence Drills — Luyện câu
@@ -159,19 +159,19 @@ Câu ví dụ:
 ### Lỗi phổ biến của người Việt
 
 **1. Không mở miệng đủ rộng cho /æ/**
-Đây là lỗi số một. Người Việt thường phát âm /æ/ như /ɛ/ vì không quen mở miệng rộng và đẩy lưỡi ra trước. Tập trước gương: mở miệng rộng, thấp, và hơi kéo hai khóe miệng sang hai bên.
+Đây là lỗi số một. Người Việt thường phát âm /æ/ như /e/ vì không quen mở miệng rộng và đẩy lưỡi ra trước. Tập trước gương: mở miệng rộng, thấp, và hơi kéo hai khóe miệng sang hai bên.
 
 **2. Phát âm /æ/ như "a" trong tiếng Việt**
 Âm "a" trong tiếng Việt là âm thấp-sau (/ɑ/), trong khi /æ/ là âm thấp-trước. Điểm khác biệt là ở vị trí lưỡi — lưỡi phải đẩy về phía trước khi nói /æ/.
 
-**3. Nhầm lẫn giữa /ɛ/ và /æ/ trong chính tả**
-Không phải lúc nào chữ "e" cũng là /ɛ/ và chữ "a" cũng là /æ/. Hãy học phát âm từng từ qua IPA thay vì chỉ dựa vào chữ viết.
+**3. Nhầm lẫn giữa /e/ và /æ/ trong chính tả**
+Không phải lúc nào chữ "e" cũng là /e/ và chữ "a" cũng là /æ/. Hãy học phát âm từng từ qua IPA thay vì chỉ dựa vào chữ viết.
 
 ---
 
 ## Nghe thêm
 
-Nghe người bản ngữ phát âm để so sánh /ɛ/ và /æ/:
+Nghe người bản ngữ phát âm để so sánh /e/ và /æ/:
 
 - [bed – YouGlish](https://youglish.com/pronounce/bed/english)
 - [bad – YouGlish](https://youglish.com/pronounce/bad/english)

@@ -18,6 +18,8 @@ Tin tốt: âm /ŋ/ **có trong tiếng Việt**! Âm "ng" và "ngh" trong tiế
 
 Tin không hay: dù biết âm này, người Việt vẫn thường mắc **hai lỗi đặc trưng** khi dùng /ŋ/ trong tiếng Anh.
 
+> **Khác biệt cơ bản với tiếng Việt:** Trong tiếng Anh, /ŋ/ **không bao giờ xuất hiện đầu từ** — nó chỉ ở giữa hoặc cuối. Tiếng Việt thì có (Nguyễn, ngân, nghe, ngọc), nên người Việt phải nhớ: **không khởi đầu từ tiếng Anh bằng /ŋ/**. Vì vậy không có từ tiếng Anh nào bắt đầu bằng "ng-" được phát âm /ŋ/ — những từ như "ng-uyen" trong tên riêng tiếng Việt thường được người bản ngữ đọc là /n/ hoặc /nɡ/.
+
 **Hai thách thức chính:**
 
 1. **Thêm /g/ thừa vào cuối từ**: "sing" → /sɪŋɡ/ (sai), phải là /sɪŋ/ (đúng)

@@ -132,7 +132,7 @@ Câu ví dụ:
 | chair | cheer |
 | share | sheer |
 | stare | steer |
-| where | weird |
+| rare | rear |
 
 > **Ghi nhớ:** /eə/ — bắt đầu với lưỡi ở **tầm giữa** (như "e" trong "bed"). /ɪə/ — bắt đầu với lưỡi ở **vị trí cao hơn** (như "i" trong "bit"). Thử nói "bed" rồi "bit" — cảm nhận lưỡi lên cao hơn — đó là sự khác biệt giữa /eə/ và /ɪə/.
 

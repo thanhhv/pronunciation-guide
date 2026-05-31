@@ -44,7 +44,7 @@ draft: false
 
 Từ ví dụ: **wet**, **wine**, **word**, **way**, **swim**, **away**, **always**, **between**, **twin**, **queen**
 
-> **Lưu ý quan trọng:** /w/ **chỉ xuất hiện trước nguyên âm** trong tiếng Anh. Không có từ nào kết thúc bằng /w/ theo cách phát âm — chữ "w" ở cuối từ (như "saw", "new", "low") là một phần của nguyên âm, không phải phụ âm riêng.
+> **Lưu ý quan trọng:** Âm /w/ chỉ xuất hiện **trước nguyên âm** và **không bao giờ ở cuối từ**. Khi bạn thấy chữ "w" ở cuối từ (saw, new, low), đó **không phải** âm /w/ — chữ "w" ở đó chỉ là một phần của ký tự nguyên âm đôi: *aw* = /ɔː/, *ew* = /uː/, *ow* = /əʊ/. Tóm lại: nghe phải có nguyên âm theo sau /w/, nếu không thì không phải /w/.
 
 ### /v/ — âm xát răng môi hữu thanh
 
