@@ -25,12 +25,18 @@ Tin không hay: dù biết âm này, người Việt vẫn thường mắc **hai
 1. **Thêm /g/ thừa vào cuối từ**: "sing" → /sɪŋɡ/ (sai), phải là /sɪŋ/ (đúng)
 2. **Nhầm /n/ và /ŋ/ ở cuối từ**: "sin" (/sɪn/) vs "sing" (/sɪŋ/) — đây là hai từ khác nhau!
 
-**Quy tắc quan trọng về -ng- giữa từ:**
+**Quy tắc quan trọng về -ng- giữa từ — khi nào CÓ /g/, khi nào KHÔNG?**
 
-- Gốc từ có -ng-: **finger** /ˈfɪŋɡər/, **anger** /ˈæŋɡər/, **longer** /ˈlɒŋɡər/ → CÓ /g/
-- Hậu tố -ing: **singer** /ˈsɪŋər/, **longer** (so sánh) /ˈlɒŋər/ → KHÔNG có /g/
+Cùng một chữ viết "-ng-" có thể đọc là /ŋ/ (không /g/) hoặc /ŋɡ/ (có /g/), tùy vào **cấu tạo từ**:
 
-(Quy tắc này có ngoại lệ nhỏ, nhưng đây là quy tắc cơ bản cho người mới học.)
+- **CÓ /g/** (đọc là /ŋɡ/) — khi "ng" nằm trong:
+  - **Gốc từ** không thể tách: **finger** /ˈfɪŋɡə/, **anger** /ˈæŋɡə/, **hunger** /ˈhʌŋɡə/, **single** /ˈsɪŋɡəl/
+  - **Tính từ so sánh hơn / nhất**: **longer** /ˈlɒŋɡə/, **stronger** /ˈstrɒŋɡə/, **youngest** /ˈjʌŋɡɪst/
+- **KHÔNG /g/** (chỉ /ŋ/) — khi "ng" nằm trong:
+  - **Hậu tố -ing** (gerund / phân từ): **singing** /ˈsɪŋɪŋ/, **running** /ˈrʌnɪŋ/, **going** /ˈɡəʊɪŋ/
+  - **Hậu tố -er chỉ người làm hành động**: **singer** /ˈsɪŋə/ (người hát), **hanger** /ˈhæŋə/, **ringer** /ˈrɪŋə/
+
+**Mẹo:** Hỏi "Đây có phải là tính từ so sánh không?" Nếu **có** → /ŋɡ/ (longer hơn long). Nếu **không** (là agent -er hay -ing) → chỉ /ŋ/ (singer, singing).
 
 ---
 

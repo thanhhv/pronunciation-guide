@@ -27,7 +27,7 @@ Ví dụ schwa trong thực tế:
 
 Không! Tiếng Việt không có khái niệm "vowel reduction" — mỗi âm tiết trong tiếng Việt đều được phát âm đầy đủ và rõ ràng. Trong tiếng Anh thì ngược lại: các âm tiết **không được nhấn trọng âm** thường bị "thu nhỏ" thành schwa.
 
-**Bí quyết:** Schwa là âm "ơ" của tiếng Anh — trung tính, ngắn, thư giãn. Không cố phát âm rõ hơn mức cần thiết.
+**Bí quyết:** Schwa không phải là một nguyên âm "cố định" mà là **kết quả của việc giảm âm** ở các âm tiết không nhấn trọng âm. Cùng một chữ cái có thể là /æ/ khi được nhấn (*cat*) và /ə/ khi không nhấn (*about* — chữ "a" đầu). Khi luyện schwa, hãy nhớ: âm này phải **ngắn, mờ, thư giãn** — không cố phát âm rõ.
 
 ---
 

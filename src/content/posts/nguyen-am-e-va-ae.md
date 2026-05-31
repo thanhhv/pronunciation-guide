@@ -46,11 +46,11 @@ Từ ví dụ: **bed**, **red**, **men**, **pet**, **set**
   <source src="/audio/ae.mp3" type="audio/mpeg" />
 </audio>
 
-1. **Mở miệng rộng hơn /e/** — hàm dưới hạ thấp hơn
-2. Lưỡi đẩy **về phía trước và xuống thấp** hơn
-3. Cảm giác miệng vừa mở rộng vừa căng ở hai bên
+1. **Mở miệng rộng hơn /e/** — hàm dưới hạ thấp rõ rệt
+2. Lưỡi ở vị trí **trước-thấp** — đẩy về phía răng cửa và hạ xuống
+3. **Môi giữ tự nhiên** — không tròn, không kéo sang hai bên
 4. Âm **hữu thanh**
-5. Đây là âm rất nổi bật trong tiếng Anh Mỹ — phát âm rõ ràng
+5. Đây là âm rất nổi bật trong tiếng Anh — phát âm rõ ràng, không "nuốt" thành /e/
 
 Từ ví dụ: **bad**, **man**, **cat**, **hat**, **map**
 
@@ -159,7 +159,7 @@ Câu ví dụ:
 ### Lỗi phổ biến của người Việt
 
 **1. Không mở miệng đủ rộng cho /æ/**
-Đây là lỗi số một. Người Việt thường phát âm /æ/ như /e/ vì không quen mở miệng rộng và đẩy lưỡi ra trước. Tập trước gương: mở miệng rộng, thấp, và hơi kéo hai khóe miệng sang hai bên.
+Đây là lỗi số một. Người Việt thường phát âm /æ/ như /e/ vì không quen mở miệng rộng và đẩy lưỡi ra trước. Tập trước gương: **hạ hàm xuống**, **đẩy lưỡi về phía trước**, **môi giữ tự nhiên** (không cần kéo sang hai bên — đó là động tác thừa).
 
 **2. Phát âm /æ/ như "a" trong tiếng Việt**
 Âm "a" trong tiếng Việt là âm thấp-sau (/ɑ/), trong khi /æ/ là âm thấp-trước. Điểm khác biệt là ở vị trí lưỡi — lưỡi phải đẩy về phía trước khi nói /æ/.

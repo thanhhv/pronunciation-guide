@@ -35,7 +35,7 @@ Tiếng Việt có âm "ai" (ví dụ: *mai*, *tai*, *gái*) nhưng điểm bắ
 </audio>
 
 1. **Há miệng rộng** — hàm hạ xuống thấp, miệng mở hơn bình thường
-2. Lưỡi **nằm phẳng ở đáy miệng** — không chạm vào đâu, không đẩy lên trước
+2. Lưỡi ở vị trí **thấp-trung tâm**, thả lỏng (không nâng cao, không đẩy ra trước)
 3. Môi không tròn, không kéo căng — để tự nhiên
 4. Âm **hữu thanh**
 5. **Trượt lưỡi lên cao-trước** hướng tới /ɪ/ — miệng khép lại nhẹ nhàng khi kết thúc

@@ -15,10 +15,6 @@ draft: false
 - **/ɒ/** — âm "o" ngắn, thấp. Ví dụ: **hot**, **cot**, **stop**
 - **/ɔː/** — âm "aw" dài, tròn. Ví dụ: **hall**, **caught**, **walk**
 
-**Lưu ý về phương ngữ:** Trong tiếng Anh Mỹ hiện đại, nhiều người nói /ɒ/ và /ɔː/ giống nhau (gọi là "cot-caught merger") — cả hai đều phát âm gần như /ɑː/. Trong tiếng Anh Anh và một số vùng ở Mỹ, hai âm này vẫn được phân biệt rõ ràng. **Bài này theo chuẩn tiếng Anh Anh.**
-
-> **Nếu bạn học tiếng Anh Mỹ:** "hot" (/hɒt/ theo chuẩn Anh Anh) phát âm là /hɑːt/ trong tiếng Anh Mỹ — tương tự âm "a" trong "cart" nhưng ngắn hơn. "Cot" và "caught" nghe gần như giống nhau. Khi nghe người Mỹ, đừng ngạc nhiên nếu /ɒ/ và /ɔː/ nghe không khác biệt.
-
 **Âm này có trong tiếng Việt không?**
 
 - /ɒ/ gần với âm "o" trong tiếng Việt nhưng **miệng mở rộng và thấp hơn**
@@ -37,7 +33,7 @@ draft: false
 </audio>
 
 1. **Mở miệng rộng** — hàm dưới hạ thấp hơn so với âm "o" tiếng Việt
-2. Môi tròn nhẹ hoặc không tròn (trong tiếng Anh Anh)
+2. **Môi tròn nhẹ** — không tròn nhiều như "o" tiếng Việt; chỉ vừa đủ để nhận ra hình tròn
 3. Lưỡi ở vị trí **thấp-sau**
 4. Âm **hữu thanh**
 5. Phát âm **ngắn**
@@ -168,6 +164,18 @@ Câu ví dụ:
 
 **3. Nhầm chính tả với phát âm**
 "Walk" không đọc có âm "l" — /wɔːk/, không phải /wɔːlk/. "Talk" cũng vậy: /tɔːk/. Đây là trường hợp chữ viết không phản ánh đúng âm thanh — hãy học theo IPA.
+
+---
+
+## Khác biệt với tiếng Mỹ
+
+Bài này dạy theo chuẩn **tiếng Anh Anh (British RP)**, trong đó /ɒ/ và /ɔː/ là hai âm khác nhau rõ ràng. Trong tiếng Anh Mỹ hiện đại:
+
+- Nhiều người (đặc biệt ở miền Tây và Trung Tây Mỹ) phát âm **/ɒ/ và /ɔː/ giống nhau** — hiện tượng gọi là **"cot-caught merger"**. Cả hai đều phát âm gần như /ɑː/.
+- "hot" theo chuẩn Anh Anh là /hɒt/; trong tiếng Anh Mỹ là /hɑːt/ — tương tự âm "a" trong "cart" nhưng ngắn hơn.
+- "cot" và "caught" trong nhiều giọng Mỹ nghe gần như giống nhau.
+
+Khi nghe người Mỹ, đừng ngạc nhiên nếu /ɒ/ và /ɔː/ nghe không khác biệt. Nếu bạn học giọng Mỹ, có thể bỏ qua phần phân biệt — chỉ cần biết một âm /ɑː/ duy nhất.
 
 ---
 
