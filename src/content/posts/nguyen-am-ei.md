@@ -135,10 +135,10 @@ Phân biệt /eɪ/ với /ɛ/ (âm "e" ngắn, phẳng, không trượt như tro
 | late | let |
 | main | men |
 | pain | pen |
-| make | meck *(luyện âm)* |
+| gate | get |
 | fail | fell |
 | tale | tell |
-| fate | fet *(luyện âm)* |
+| bait | bet |
 
 > **Mẹo phân biệt:** Với /ɛ/, miệng hé ra và giữ nguyên. Với /eɪ/, miệng bắt đầu hé rồi **khép lại** — bạn phải cảm nhận được chuyển động đó.
 

@@ -130,7 +130,7 @@ Câu ví dụ:
 | fear | fair |
 | ear | air |
 | deer | dare |
-| near | Ner *(không dùng — xem cặp tiếp)* |
+| mere | mare |
 | cheer | chair |
 | sheer | share |
 | steer | stare |

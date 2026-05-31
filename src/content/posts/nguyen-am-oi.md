@@ -129,7 +129,7 @@ Phân biệt /ɔɪ/ (bắt đầu tròn môi-thấp) với /aɪ/ (bắt đầu m
 | toil | tile |
 | foil | file |
 | void | vied |
-| join | jine *(luyện âm)* |
+| boil | bile |
 | loin | line |
 
 > **Mẹo phân biệt:** Nhìn vào gương. Khi nói /ɔɪ/, môi của bạn phải **tròn và nhô ra** ngay từ đầu. Khi nói /aɪ/, môi không tròn — miệng chỉ mở rộng thẳng. Đây là sự khác biệt nhìn thấy được.

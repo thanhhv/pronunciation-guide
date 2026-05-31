@@ -45,6 +45,8 @@ Với /g/, lỗi phổ biến là không rung dây thanh đủ mạnh, khiến /
 
 Từ ví dụ: **car**, **cold**, **kick**, **back**, **school**
 
+> **Ngoại lệ — sau /s/, /k/ KHÔNG bật hơi:** Trong cụm /sk-/, /k/ mất aspiration. So sánh: *car* [kʰɑː] (có bật hơi) vs *scar* [skɑː] (không bật hơi); *cool* [kʰuːl] vs *school* [skuːl]; *cab* [kʰæb] vs *scab* [skæb]. Quy tắc này áp dụng tự nhiên cho cả ba âm /p t k/ — bạn không cần luyện riêng, chỉ cần biết để nhận ra khi nghe.
+
 ### /g/ — Âm vòm mềm hữu thanh (không bật hơi)
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">

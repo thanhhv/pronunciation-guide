@@ -177,6 +177,11 @@ Câu ví dụ:
 | wreath /riːθ/ | wreathe /riːð/ |
 | loath /ləʊθ/ | loathe /ləʊð/ |
 | sheath /ʃiːθ/ | sheathe /ʃiːð/ |
+| mouth (n) /maʊθ/ | mouth (v) /maʊð/ |
+| thigh /θaɪ/ | thy /ðaɪ/ |
+| cloth /klɒθ/ | clothe /kləʊð/ |
+
+> **Lưu ý:** Một số cặp (bath/bathe, cloth/clothe) có nguyên âm chuyển khi sang dạng động từ — đây là quy luật lịch sử của tiếng Anh. Hãy chú ý cột IPA để thấy rõ âm nào đang đối lập.
 
 **Phân biệt /θ/ với /t/ và /s/ (lỗi thay thế phổ biến của người Việt):**
 

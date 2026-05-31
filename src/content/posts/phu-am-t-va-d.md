@@ -45,6 +45,8 @@ Có — nhưng khác biệt ở hai điểm:
 
 Từ ví dụ: **ten**, **time**, **town**, **coat**, **better**
 
+> **Ngoại lệ — sau /s/, /t/ KHÔNG bật hơi:** Trong cụm /st-/, /t/ mất aspiration. So sánh: *top* [tʰɒp] (có bật hơi) vs *stop* [stɒp] (không bật hơi); *tar* [tʰɑː] vs *star* [stɑː]. Quy tắc này áp dụng tự nhiên cho cả ba âm /p t k/ — bạn không cần luyện riêng, chỉ cần biết để nhận ra khi nghe.
+
 ### /d/ — Âm đầu lưỡi hữu thanh (không bật hơi)
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">

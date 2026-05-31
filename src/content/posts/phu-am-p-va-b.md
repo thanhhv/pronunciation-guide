@@ -42,6 +42,8 @@ Người Việt có xu hướng nói /p/ như trong "spin" — không bật hơi
 
 Từ ví dụ: **pen**, **pay**, **park**, **cap**, **rope**
 
+> **Ngoại lệ — sau /s/, /p/ KHÔNG bật hơi:** Trong các cụm /sp-/, /st-/, /sk-/, ba âm /p t k/ mất aspiration. So sánh: *pin* [pʰɪn] (có bật hơi) vs *spin* [spɪn] (không bật hơi); *top* [tʰɒp] vs *stop* [stɒp]; *car* [kʰɑː] vs *scar* [skɑː]. Đây là quy tắc tự nhiên — người bản ngữ phát âm như vậy mà không cần nghĩ. Bạn không cần luyện riêng, chỉ cần biết để khi học nghe không bị nhầm lẫn.
+
 ### /b/ — Âm bật môi hữu thanh (không bật hơi)
 
 <audio controls preload="none" style="height:36px;margin-bottom:12px">

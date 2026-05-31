@@ -66,6 +66,13 @@ Từ ví dụ: **zip**, **zero**, **buzz**, **easy**, **his**
 
 ## Vị trí trong từ
 
+> **Quy tắc đuôi -s/-es (số nhiều, ngôi 3 số ít, sở hữu cách):**
+> - Sau **âm hữu thanh** (nguyên âm và phụ âm hữu thanh /b d ɡ v ð z ʒ dʒ m n ŋ l r/): đọc là **/z/**. Ví dụ: dogs /dɒɡz/, runs /rʌnz/, plays /pleɪz/, his /hɪz/.
+> - Sau **âm vô thanh** (/p t k f θ/): đọc là **/s/**. Ví dụ: cats /kæts/, books /bʊks/, laughs /lɑːfs/.
+> - Sau âm rít /s z ʃ ʒ tʃ dʒ/: thêm âm tiết /ɪz/. Ví dụ: buses /ˈbʌsɪz/, watches /ˈwɒtʃɪz/.
+>
+> Đây là quy tắc tự động, **không cần học thuộc** — chỉ cần biết khi nào miệng đang rung dây thanh ở âm trước.
+
 ### /s/ ở đầu từ
 
 | Từ | IPA | Nghĩa |
@@ -160,7 +167,7 @@ Câu ví dụ:
 | /s/ | /z/ |
 |-----|-----|
 | sip | zip |
-| seal | zeal |
+| Sue | zoo |
 | sink | zinc |
 | bus | buzz |
 | race | rays |
