@@ -1,0 +1,61 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import dateFormat from "@/lib/utils/dateFormat";
+import { markdownify } from "@/lib/utils/textConverter";
+import { Image } from "astro:assets";
+import { render } from "astro:content";
+
+export async function getStaticPaths() {
+  const articles = await getSinglePage("grammar");
+
+  return articles.map((article) => ({
+    params: { single: article.id },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { title, meta_title, description, image, date } = article.data;
+const { Content } = await render(article);
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <section class="section">
+    <div class="container">
+      <article class="row justify-center">
+        <div class="md:col-10 text-center">
+          <h1 set:html={markdownify(title)} class="h2" />
+          {date && <p class="mt-4 text-text font-medium">{dateFormat(date)}</p>}
+        </div>
+
+        {
+          image && (
+            <div class="col-12 mt-8 mb-2">
+              <Image
+                src={image}
+                height={280}
+                width={1000}
+                alt={title}
+                class="rounded-lg max-h-[280px] w-full object-cover"
+                loading="eager"
+                fetchpriority="high"
+              />
+            </div>
+          )
+        }
+
+        <div class="md:col-10">
+          <div class="content mb-16 text-left">
+            <Content />
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+</Base>

@@ -13,6 +13,10 @@
       "url": "/exercises"
     },
     {
+      "name": "Grammer",
+      "url": "/grammar"
+    },
+    {
       "name": "About",
       "url": "/about"
     }

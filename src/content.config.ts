@@ -72,6 +72,19 @@ const postsCollection = defineCollection({
   }),
 });
 
+// Grammar collection schema
+const grammarCollection = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/grammar" }),
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+    description: z.string().optional(),
+    date: z.coerce.date().optional(),
+    image: z.string().optional(),
+    draft: z.boolean().optional(),
+  }),
+});
+
 // Pages collection schema
 const pagesCollection = defineCollection({
   loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/pages" }),
@@ -92,4 +105,5 @@ export const collections = {
   contact: contactCollection,
   authors: authorsCollection,
   pages: pagesCollection,
+  grammar: grammarCollection,
 };
