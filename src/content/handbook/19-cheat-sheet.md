@@ -2,6 +2,7 @@
 title: "04 — Cheat Sheet: Tra Nhanh Khi Cần"
 description: "Bảng tra cứu nhanh 12 thì, dấu hiệu nhận biết, quy tắc loại từ và top 10 lỗi người Việt hay mắc."
 date: "2026-07-05"
+image: "https://placehold.co/600x400/4a1942/ffffff?text=Cheat+Sheet"
 ---
 
 ---

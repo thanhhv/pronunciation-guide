@@ -5,16 +5,16 @@ import dateFormat from "@/lib/utils/dateFormat";
 import { markdownify, plainify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
 
-const articles = await getSinglePage("grammar");
-// Grammar articles form a numbered series (01, 02, ...) meant to be read in
+const articles = await getSinglePage("handbook");
+// Handbook chapters form a numbered series (00, 01, ...) meant to be read in
 // order, so sort by filename instead of by date (which would show newest first).
 const sortedArticles = [...articles].sort((a, b) => a.id.localeCompare(b.id));
 ---
 
-<Base title="Grammer" meta_title="Ngữ Pháp Tiếng Anh">
+<Base title="Handbook" meta_title="Cẩm Nang Học Tiếng Anh">
   <section class="section">
     <div class="container">
-      <h1 class="h2 page-heading mb-16 text-center">Grammer</h1>
+      <h1 class="h2 page-heading mb-16 text-center">Handbook</h1>
       {
         sortedArticles.length === 0 ? (
           <p class="text-center text-text">
@@ -26,7 +26,7 @@ const sortedArticles = [...articles].sort((a, b) => a.id.localeCompare(b.id));
               <div class="col-12 sm:col-6">
                 {article.data.image && (
                   <a
-                    href={`/grammar/${article.id}`}
+                    href={`/handbook/${article.id}`}
                     class="rounded-lg block hover:text-primary overflow-hidden group"
                   >
                     <Image
@@ -46,7 +46,7 @@ const sortedArticles = [...articles].sort((a, b) => a.id.localeCompare(b.id));
                 )}
                 <h3 class="mb-4">
                   <a
-                    href={`/grammar/${article.id}`}
+                    href={`/handbook/${article.id}`}
                     class="block hover:text-primary transition duration-300"
                     set:html={markdownify(article.data.title)}
                   />

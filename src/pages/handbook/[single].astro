@@ -7,7 +7,7 @@ import { Image } from "astro:assets";
 import { render } from "astro:content";
 
 export async function getStaticPaths() {
-  const articles = await getSinglePage("grammar");
+  const articles = await getSinglePage("handbook");
 
   return articles.map((article) => ({
     params: { single: article.id },
@@ -59,3 +59,34 @@ const { Content } = await render(article);
     </div>
   </section>
 </Base>
+
+<style is:global>
+  /* Mermaid diagrams: keep them on the page background, centered. Hidden
+     until mermaid.js replaces the source text with the rendered SVG. */
+  .content pre.mermaid {
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    visibility: hidden;
+  }
+  .content pre.mermaid[data-processed="true"] {
+    visibility: visible;
+  }
+  .content pre.mermaid svg {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+<script>
+  const blocks = document.querySelectorAll<HTMLElement>("pre.mermaid");
+  if (blocks.length > 0) {
+    const { default: mermaid } = await import("mermaid");
+    mermaid.initialize({
+      startOnLoad: false,
+      theme: "neutral",
+      fontFamily: "inherit",
+    });
+    mermaid.run({ nodes: blocks });
+  }
+</script>

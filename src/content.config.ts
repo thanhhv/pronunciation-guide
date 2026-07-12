@@ -72,9 +72,9 @@ const postsCollection = defineCollection({
   }),
 });
 
-// Grammar collection schema
-const grammarCollection = defineCollection({
-  loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/grammar" }),
+// Handbook collection schema (học tiếng Anh từ góc nhìn khoa học)
+const handbookCollection = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/handbook" }),
   schema: z.object({
     title: z.string(),
     meta_title: z.string().optional(),
@@ -105,5 +105,5 @@ export const collections = {
   contact: contactCollection,
   authors: authorsCollection,
   pages: pagesCollection,
-  grammar: grammarCollection,
+  handbook: handbookCollection,
 };

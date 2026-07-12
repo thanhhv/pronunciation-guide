@@ -2,6 +2,7 @@
 title: "03 — Các Loại Từ & Cách Ghép Câu Không Bị Lẫn"
 description: "Bản đồ các loại từ và bộ quy tắc vị trí giúp bạn biết chính xác nên dùng danh từ, động từ, tính từ hay trạng từ ở đâu trong câu."
 date: "2026-07-05"
+image: "https://placehold.co/600x400/4a1942/ffffff?text=Loại+Từ"
 ---
 
 > Đây là phần giải quyết đúng vấn đề bạn nêu: "không biết dùng loại từ nào sau động từ, tính từ..."

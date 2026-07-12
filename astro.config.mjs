@@ -7,6 +7,7 @@ import gtm from "astro-gtm-lite";
 import { defineConfig, fontProviders, sharpImageService } from "astro/config";
 import config from "./src/config/config.json";
 import theme from "./src/config/theme.json";
+import remarkMermaid from "./src/lib/utils/remarkMermaid.mjs";
 
 // Helper to parse font string format: "FontName:wght@400;500;600;700"
 function parseFontString(fontStr) {
@@ -76,6 +77,7 @@ export default defineConfig({
     }),
   ],
   markdown: {
+    remarkPlugins: [remarkMermaid],
     shikiConfig: { theme: "one-dark-pro", wrap: true },
   },
 });

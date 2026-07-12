@@ -2,6 +2,7 @@
 title: "02 — 6 Thì Cốt Lõi (90% Giao Tiếp & Văn Viết)"
 description: "Đi sâu vào 6 thì dùng nhiều nhất trong giao tiếp và văn viết — kèm dấu hiệu nhận biết và các cặp thì dễ nhầm lẫn."
 date: "2026-07-04"
+image: "https://placehold.co/600x400/4a1942/ffffff?text=Các+Thì"
 ---
 
 > Đọc file 01 trước để có tư duy nền. File này đi vào từng thì: khi nào dùng, dấu hiệu nhận biết, và các cặp dễ nhầm.

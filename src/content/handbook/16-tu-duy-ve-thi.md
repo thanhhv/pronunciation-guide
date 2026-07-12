@@ -2,6 +2,7 @@
 title: "01 — Tư Duy Về Thì: Hiểu Bản Chất Trước Khi Học Công Thức"
 description: "Hiểu vì sao tiếng Anh cần thì, và cách tư duy Thì = Thời điểm × Trạng thái để không cần học thuộc 12 công thức rời rạc."
 date: "2026-07-03"
+image: "https://placehold.co/600x400/4a1942/ffffff?text=Tư+Duy+Về+Thì"
 ---
 
 > Nếu bạn học thì bằng cách nhớ 12 công thức, bạn sẽ quên. Nếu bạn hiểu **tại sao tiếng Anh cần thì**, bạn sẽ không bao giờ quên.
